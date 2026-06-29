@@ -1,0 +1,208 @@
+:root {
+  --bg: #f7f8fb;
+  --card: #ffffff;
+  --ink: #1f2937;
+  --muted: #6b7280;
+  --line: #e5e7eb;
+  --primary: #4f46e5;
+  --primary-d: #4338ca;
+  --green: #10b981;
+  --yellow: #f59e0b;
+  --red: #ef4444;
+  --shadow: 0 1px 3px rgba(0,0,0,.08), 0 6px 20px rgba(0,0,0,.05);
+  --radius: 14px;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Noto Sans JP",
+    "Yu Gothic", Meiryo, sans-serif;
+  line-height: 1.7;
+  -webkit-text-size-adjust: 100%;
+}
+
+/* ヘッダー */
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 16px;
+  background: rgba(255,255,255,.9);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--line);
+}
+.home-link { font-size: 22px; text-decoration: none; }
+.site-header h1 {
+  flex: 1;
+  font-size: 18px;
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.reset-btn {
+  border: 1px solid var(--line);
+  background: #fff;
+  color: var(--muted);
+  border-radius: 999px;
+  padding: 4px 12px;
+  font-size: 12px;
+  cursor: pointer;
+}
+.reset-btn:active { transform: scale(.97); }
+
+.container {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 18px 16px 60px;
+}
+
+.lead { color: var(--muted); text-align: center; }
+
+/* 科目グリッド */
+.subject-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 14px;
+  margin-top: 16px;
+}
+.subject-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  padding: 26px 8px;
+  background: var(--card);
+  border: 2px solid var(--line);
+  border-radius: var(--radius);
+  text-decoration: none;
+  color: var(--ink);
+  box-shadow: var(--shadow);
+  transition: transform .08s ease;
+}
+.subject-card:active { transform: scale(.97); }
+.subject-emoji { font-size: 34px; }
+.subject-name { font-weight: 700; font-size: 17px; }
+
+/* ボタン */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  padding: 10px 16px;
+  border-radius: 10px;
+  border: 1px solid transparent;
+  background: var(--primary);
+  color: #fff;
+  font-weight: 700;
+  font-size: 15px;
+  text-decoration: none;
+  cursor: pointer;
+}
+.btn:active { transform: scale(.98); }
+.btn.ghost { background: #fff; color: var(--primary); border-color: var(--line); }
+.btn.warn { background: var(--yellow); }
+.btn.ok { background: var(--green); }
+.btn.ng { background: var(--red); }
+.btn.small { padding: 6px 12px; font-size: 13px; }
+.btn.big { width: 100%; padding: 14px; font-size: 17px; margin-top: 8px; }
+.btn.disabled { opacity: .45; pointer-events: none; }
+
+.row-actions { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; margin: 6px 0 16px; }
+.row-actions.center { justify-content: center; }
+
+/* デッキ一覧 */
+.deck-list { display: flex; flex-direction: column; gap: 14px; }
+.deck-card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 16px;
+  box-shadow: var(--shadow);
+}
+.deck-head { display: flex; align-items: center; justify-content: space-between; gap: 10px; }
+.deck-head h3 { margin: 0; font-size: 16px; }
+.deck-meta { margin: 6px 0 12px; color: var(--muted); font-size: 13px; }
+.deck-actions { display: flex; gap: 10px; }
+
+.badge { font-size: 12px; font-weight: 700; padding: 3px 10px; border-radius: 999px; white-space: nowrap; }
+.badge.gray { background: #f3f4f6; color: var(--muted); }
+.badge.green { background: #d1fae5; color: #065f46; }
+.badge.yellow { background: #fef3c7; color: #92400e; }
+.badge.red { background: #fee2e2; color: #991b1b; }
+
+/* クイズ */
+.quiz-wrap { display: flex; flex-direction: column; gap: 14px; }
+.progress { height: 6px; background: var(--line); border-radius: 999px; overflow: hidden; }
+.progress-bar { height: 100%; background: var(--primary); transition: width .25s ease; }
+.counter { text-align: center; color: var(--muted); font-size: 13px; margin: 0; }
+
+.qa-card, .qa-answer {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 20px;
+  box-shadow: var(--shadow);
+}
+.qa-label {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--muted);
+  letter-spacing: .08em;
+  margin-bottom: 6px;
+}
+.qa-question { font-size: 20px; font-weight: 700; margin: 4px 0 0; }
+.qa-answer { border-color: #c7d2fe; background: #eef2ff; }
+.qa-answer-text { font-size: 19px; font-weight: 700; margin: 4px 0 0; color: var(--primary-d); }
+.qa-explanation { margin: 12px 0 0; font-size: 14px; color: #4b5563; border-top: 1px dashed var(--line); padding-top: 10px; }
+.card-image { display: block; max-width: 100%; border-radius: 10px; margin: 4px 0 12px; }
+
+.grade-prompt { text-align: center; color: var(--muted); margin: 4px 0 0; font-size: 14px; }
+.grade-actions { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.grade-actions .btn { padding: 16px; font-size: 17px; }
+
+.quit { align-self: center; margin-top: 4px; }
+
+/* 結果 */
+.result-card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 28px 20px;
+  box-shadow: var(--shadow);
+  text-align: center;
+}
+.result-card h2 { margin: 0 0 16px; }
+.score-ring {
+  width: 150px; height: 150px;
+  border-radius: 50%;
+  margin: 8px auto 16px;
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  border: 10px solid var(--line);
+}
+.score-ring.green { border-color: var(--green); }
+.score-ring.yellow { border-color: var(--yellow); }
+.score-ring.red { border-color: var(--red); }
+.score-rate { font-size: 40px; font-weight: 800; line-height: 1; }
+.score-sub { font-size: 13px; color: var(--muted); margin-top: 4px; }
+
+.card.error { background: #fff; border: 1px solid var(--red); border-radius: var(--radius); padding: 20px; text-align: center; }
+
+/* フッター */
+.site-footer { text-align: center; color: var(--muted); font-size: 12px; padding: 24px 16px 40px; }
+
+@media (max-width: 380px) {
+  .subject-emoji { font-size: 28px; }
+  .deck-actions { flex-direction: column; }
+  .deck-actions .btn { width: 100%; }
+}

@@ -1,0 +1,53 @@
+{
+  "subject": "英語",
+  "decks": [
+    {
+      "id": "eng-vocab-01",
+      "title": "英単語 — 基礎①",
+      "cards": [
+        {
+          "id": "e1-1",
+          "question": "ubiquitous の意味は？",
+          "answer": "遍在する／どこにでもある",
+          "explanation": "ラテン語 ubique（どこでも）が語源。SNSやスマホが ubiquitous など。"
+        },
+        {
+          "id": "e1-2",
+          "question": "次の意味の英単語は？『曖昧な・あいまいな』",
+          "answer": "ambiguous",
+          "explanation": "ambi-（両方）＋ -gu（駆り立てる）。二通りに取れる＝あいまい。"
+        },
+        {
+          "id": "e1-3",
+          "question": "inevitable の意味は？",
+          "answer": "避けられない・必然の",
+          "explanation": "in-（否定）＋ evitable（避けられる）。"
+        },
+        {
+          "id": "e1-4",
+          "question": "『〜を主張する』を意味する動詞（c で始まる）は？",
+          "answer": "claim",
+          "explanation": "insist / assert / claim など。claim は権利などを「要求・主張」する。"
+        }
+      ]
+    },
+    {
+      "id": "eng-grammar-01",
+      "title": "文法 — 仮定法・関係詞",
+      "cards": [
+        {
+          "id": "e2-1",
+          "question": "If I ( ) rich, I would travel the world. 空所に入る語は？",
+          "answer": "were",
+          "explanation": "仮定法過去。現在の事実に反する仮定では be 動詞は were を使う。"
+        },
+        {
+          "id": "e2-2",
+          "question": "関係代名詞 which と that の違いを一言で。",
+          "answer": "that は先行詞が「人＋物」や最上級・the only などのとき好まれ、非制限用法では which のみ使える",
+          "explanation": "コンマ付き（非制限用法）では that は使えず which を使う。"
+        }
+      ]
+    }
+  ]
+}

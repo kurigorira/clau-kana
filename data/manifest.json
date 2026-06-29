@@ -1,0 +1,9 @@
+{
+  "title": "花奈の問題集",
+  "subtitle": "英語・国語・社会",
+  "subjects": [
+    { "id": "english",  "name": "英語", "color": "#3b82f6", "emoji": "🇬🇧", "file": "data/english.json" },
+    { "id": "japanese", "name": "国語", "color": "#ef4444", "emoji": "📖", "file": "data/japanese.json" },
+    { "id": "society",  "name": "社会", "color": "#10b981", "emoji": "🌏", "file": "data/society.json" }
+  ]
+}
