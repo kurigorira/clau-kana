@@ -2,7 +2,8 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [main]
+    # main を既定とし、現在のデフォルトブランチからも公開できるようにする
+    branches: [main, claude/exam-prep-problem-site-9hg59x]
   workflow_dispatch:
 
 permissions:
