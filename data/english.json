@@ -1,51 +1,376 @@
 {
   "subject": "英語",
+  "_note": "答え（和訳・解答）はAI作成の参考訳です。予備校の公式解答に差し替え可能です。",
   "decks": [
     {
-      "id": "eng-vocab-01",
-      "title": "英単語 — 基礎①",
+      "id": "eng-lesson1",
+      "title": "Lesson1 — 文型・動詞の語法",
       "cards": [
         {
-          "id": "e1-1",
-          "question": "ubiquitous の意味は？",
-          "answer": "遍在する／どこにでもある",
-          "explanation": "ラテン語 ubique（どこでも）が語源。SNSやスマホが ubiquitous など。"
+          "id": "l1-1",
+          "question": "We stayed at a Japanese-style hotel.",
+          "answer": "私たちは和風の旅館に泊まった。",
+          "explanation": "stay は自動詞（第1文型 SV）。"
         },
         {
-          "id": "e1-2",
-          "question": "次の意味の英単語は？『曖昧な・あいまいな』",
-          "answer": "ambiguous",
-          "explanation": "ambi-（両方）＋ -gu（駆り立てる）。二通りに取れる＝あいまい。"
+          "id": "l1-2",
+          "question": "She eats everything she wants, but can stay thin.",
+          "answer": "彼女は食べたいものを何でも食べるが、それでも痩せたままでいられる。",
+          "explanation": "stay + 形容詞（thin）＝第2文型 SVC。"
         },
         {
-          "id": "e1-3",
-          "question": "inevitable の意味は？",
-          "answer": "避けられない・必然の",
-          "explanation": "in-（否定）＋ evitable（避けられる）。"
+          "id": "l1-3",
+          "question": "A lot of debris remained in the city.",
+          "answer": "多くの瓦礫（がれき）がその都市に残っていた。",
+          "explanation": "remain は自動詞（残っている）。debris＝瓦礫。"
         },
         {
-          "id": "e1-4",
-          "question": "『〜を主張する』を意味する動詞（c で始まる）は？",
-          "answer": "claim",
-          "explanation": "insist / assert / claim など。claim は権利などを「要求・主張」する。"
+          "id": "l1-4",
+          "question": "During the meeting, the door stood open.",
+          "answer": "会議の間、ドアは開いたままになっていた。",
+          "explanation": "stand + 形容詞（open）＝第2文型 SVC（〜の状態でいる）。"
+        },
+        {
+          "id": "l1-5",
+          "question": "In many cases, students with a strong interest in science tend to study abroad.",
+          "answer": "多くの場合、科学に強い関心を持つ学生は留学する傾向がある。",
+          "explanation": "tend to do＝〜する傾向がある。"
+        },
+        {
+          "id": "l1-6",
+          "question": "A key to the solution to the mystery remains unknown.",
+          "answer": "その謎を解く鍵は依然として分かっていない。",
+          "explanation": "remain + 形容詞（unknown）＝第2文型（依然として〜のままだ）。"
+        },
+        {
+          "id": "l1-7",
+          "question": "In 1945 Alexander Fleming, the man who discovered penicillin, warned that overuse of his miracle drug could make bacteria immune to it.",
+          "answer": "1945年、ペニシリンを発見した人物であるアレクサンダー・フレミングは、彼の奇跡の薬を使いすぎると細菌がその薬に対して耐性を持つようになりかねないと警告した。",
+          "explanation": "千葉大 2017。make O C（make bacteria immune）。immune to＝〜に免疫がある／耐性がある。"
+        },
+        {
+          "id": "l1-8",
+          "question": "Every family is different, with different personalities, customs, and ways of thinking. There is no one “right” kind of family. But whether parents are strict or lenient, home has to be a place of love, encouragement, and acceptance of feelings and individuality for kids to feel emotionally safe and secure. Most of us want such an atmosphere to exist in our homes, but with today’s stresses this often seems harder and harder to achieve.",
+          "answer": "どの家族もそれぞれ異なり、性格も習慣も考え方も違う。「正しい」家族の形などというものは一つもない。しかし、親が厳しかろうと甘かろうと、子どもが情緒的に安全で安心だと感じられるためには、家庭は愛情と励まし、そして感情や個性を受け入れる場でなければならない。私たちの多くは家庭にそうした雰囲気があってほしいと願っているが、今日のストレスのもとでは、それを実現するのはますます難しくなっているように思えることが多い。",
+          "explanation": "福岡大 2011。whether A or B＝AであろうとBであろうと。for kids to feel…＝意味上の主語付き不定詞。"
+        },
+        {
+          "id": "l1-9",
+          "question": "She repaired the computer.",
+          "answer": "彼女はそのコンピューターを修理した。",
+          "explanation": "repair は他動詞（直後に目的語）。"
+        },
+        {
+          "id": "l1-10",
+          "question": "My father maintained that I was wrong.",
+          "answer": "父は私が間違っていると主張した。",
+          "explanation": "maintain that …＝〜だと主張する。"
+        },
+        {
+          "id": "l1-11",
+          "question": "This event will afford you an opportunity to get acquainted with foreign people.",
+          "answer": "この催しはあなたに外国の人々と知り合う機会を与えてくれるだろう。",
+          "explanation": "afford O₁ O₂＝O₁にO₂を与える（第4文型）。get acquainted with＝〜と知り合う。"
+        },
+        {
+          "id": "l1-12",
+          "question": "It took me a while to understand him.",
+          "answer": "彼を理解するのにしばらく時間がかかった。",
+          "explanation": "It takes 人 時間 to do＝（人が）〜するのに…かかる。a while＝しばらく。"
+        },
+        {
+          "id": "l1-13",
+          "question": "From a parent’s point of view, the most important and exciting thing about language acquisition is probably just that it allows their children to talk to them. But exactly what does it take to be able to talk? And how do children get from the point where they can’t do it to the point where they can?",
+          "answer": "親の立場から見れば、言語習得について最も重要でわくわくする点は、おそらく単に、それによって子どもが自分たちに話しかけられるようになるということだ。しかし、話せるようになるには正確には何が必要なのだろうか。そして子どもは、それができない段階から、できる段階へとどのようにして到達するのだろうか。",
+          "explanation": "allow O to do＝Oが〜するのを可能にする。what does it take to do＝〜するには何が必要か。"
+        },
+        {
+          "id": "l1-14",
+          "question": "A good writer can make ordinary things like leaves have symbolic meanings in a particular way.",
+          "answer": "優れた書き手は、葉のようなありふれたものに、独特の仕方で象徴的な意味を持たせることができる。",
+          "explanation": "make O 原形（have）＝使役（Oに〜させる）。"
         }
       ]
     },
     {
-      "id": "eng-grammar-01",
-      "title": "文法 — 仮定法・関係詞",
+      "id": "eng-lesson2",
+      "title": "Lesson2 — 文型把握（自動詞・他動詞の対比）",
       "cards": [
         {
-          "id": "e2-1",
-          "question": "If I ( ) rich, I would travel the world. 空所に入る語は？",
-          "answer": "were",
-          "explanation": "仮定法過去。現在の事実に反する仮定では be 動詞は were を使う。"
+          "id": "l2-1",
+          "question": "The story changed as it was passed down through generations.",
+          "answer": "その話は、何世代にもわたって語り継がれるうちに変化した。",
+          "explanation": "change＝自動詞（変化する）。as＝〜するにつれて。"
         },
         {
-          "id": "e2-2",
-          "question": "関係代名詞 which と that の違いを一言で。",
-          "answer": "that は先行詞が「人＋物」や最上級・the only などのとき好まれ、非制限用法では which のみ使える",
-          "explanation": "コンマ付き（非制限用法）では that は使えず which を使う。"
+          "id": "l2-2",
+          "question": "The story changed his entire perspective on life.",
+          "answer": "その話は、人生に対する彼の見方をすっかり変えた。",
+          "explanation": "change＝他動詞（〜を変える）。"
+        },
+        {
+          "id": "l2-3",
+          "question": "He prepared for the solo trip to the mountains.",
+          "answer": "彼は単独の登山旅行に備えた。",
+          "explanation": "prepare for＝〜に備える（自動詞）。"
+        },
+        {
+          "id": "l2-4",
+          "question": "The previous failure prepared him for the risks of the solo trip.",
+          "answer": "以前の失敗が、彼に単独行の危険に対する心構えをさせた。",
+          "explanation": "prepare O for＝Oに〜の備えをさせる（他動詞）。"
+        },
+        {
+          "id": "l2-5",
+          "question": "He developed as a professional artist during his years in Paris.",
+          "answer": "彼はパリで過ごした年月の間に、プロの芸術家として成長した。",
+          "explanation": "develop＝自動詞（成長・発達する）。"
+        },
+        {
+          "id": "l2-6",
+          "question": "The harsh environment of the desert developed his survival skills.",
+          "answer": "砂漠の厳しい環境が、彼の生き延びるための技術を発達させた。",
+          "explanation": "develop＝他動詞（〜を発達させる）。"
+        },
+        {
+          "id": "l2-7",
+          "question": "The long-term effects of this new medicine on the human body appear significant.",
+          "answer": "この新薬が人体に及ぼす長期的な影響は、重大なものであるように思われる。",
+          "explanation": "appear + 形容詞＝〜のように見える（第2文型 SVC）。"
+        },
+        {
+          "id": "l2-8",
+          "question": "The sudden change in the project schedule seemed to the experienced staff unnecessary.",
+          "answer": "プロジェクトの予定の突然の変更は、経験豊富なスタッフには不要なものに思えた。",
+          "explanation": "seem to 人 C＝（人には）Cのように思える。to the experienced staff が挿入。"
+        },
+        {
+          "id": "l2-9",
+          "question": "The local bakery kept the bread made with organic flour fresh in the display case.",
+          "answer": "地元のパン屋は、有機栽培の小麦粉で作ったパンを陳列ケースの中で新鮮に保っていた。",
+          "explanation": "keep O C（fresh）＝OをCに保つ。made with…は bread を後置修飾。"
+        },
+        {
+          "id": "l2-10",
+          "question": "The boy found the dark corner under his bed scary during the house cleaning.",
+          "answer": "その少年は、家の掃除の最中に、ベッドの下の暗い隅を怖いと感じた。",
+          "explanation": "find O C（scary）＝OをCだと感じる／分かる。"
+        }
+      ]
+    },
+    {
+      "id": "eng-lesson3",
+      "title": "Lesson3 — 英文解釈・整序英作文",
+      "cards": [
+        {
+          "id": "l3-1",
+          "question": "Interestingly, a computer is less likely to lie than humans. As Isaac Asimov says, part of the inhumanity of a computer is that once it is completely programmed and working smoothly, it is completely honest — unless, of course, it has been programmed to be dishonest.",
+          "answer": "興味深いことに、コンピューターは人間よりも嘘をつく可能性が低い。アイザック・アシモフが言うように、コンピューターの非人間的な部分の一つは、いったん完全にプログラムされて順調に動いていれば、コンピューターは完全に正直である、という点だ——もちろん、不正直であるようにプログラムされていない限りは。",
+          "explanation": "be less likely to do＝〜する可能性が低い。once＝いったん〜すると。unless＝〜でない限り。"
+        },
+        {
+          "id": "l3-2",
+          "question": "Go to sleep with your blinds or curtains halfway open. That way, the natural light of the rising sun will send your brain a signal that it’s time to wake up. When the alarm goes off, you’ll already be half awake. Even better: Go to bed early enough so that, when the sun shines through your window, it’ll give you the recommended seven hours of sleep. If you maintain this routine, it’s likely that you can start relying on your biological clock rather than an alarm clock.",
+          "answer": "ブラインドやカーテンを半分開けたまま眠りにつきなさい。そうすれば、昇る太陽の自然光が、起きる時間だという合図をあなたの脳に送ってくれる。目覚まし時計が鳴るころには、あなたはすでに半分目覚めているだろう。さらに良いのは、太陽が窓から差し込むときに推奨される7時間の睡眠が確保できるよう、十分早く就寝することだ。この習慣を続ければ、目覚まし時計ではなく自分の体内時計に頼り始めることができるようになる可能性が高い。",
+          "explanation": "福岡大。with O 形容詞（付帯状況）。go off＝（目覚ましが）鳴る。rely on A rather than B＝BよりむしろAに頼る。"
+        },
+        {
+          "id": "l3-3",
+          "question": "【整序英作文・1語不要】In your country, how many ( are / be / colors / said / they / to ) in a rainbow?",
+          "answer": "In your country, how many colors are said to be in a rainbow?（they が不要）",
+          "explanation": "be said to do＝〜だと言われている。how many colors を主語に。"
+        },
+        {
+          "id": "l3-4",
+          "question": "【整序英作文】43% of the people surveyed in the study said ( wearing / glasses / makes / people / look ) more intelligent.",
+          "answer": "…said wearing glasses makes people look more intelligent.",
+          "explanation": "動名詞句 wearing glasses が主語。make O 原形（look）＝Oに〜させる。"
+        }
+      ]
+    },
+    {
+      "id": "eng-lesson4",
+      "title": "Lesson4 — 英文解釈（修飾・分詞）",
+      "cards": [
+        {
+          "id": "l4-1",
+          "question": "The rain made the road so slippery for drivers unfamiliar with the area that many accidents occurred.",
+          "answer": "雨のせいで道路は、その地域に不慣れな運転手にとって非常に滑りやすくなり、その結果多くの事故が起きた。",
+          "explanation": "make O C（slippery）＋ so … that ～（とても…なので～）。unfamiliar with the area は drivers を後置修飾。"
+        },
+        {
+          "id": "l4-2",
+          "question": "Doctors warn that although the symptoms may disappear, the virus can remain in the body.",
+          "answer": "医師たちは、症状は消えるかもしれないが、ウイルスは体内に残り続けることがあると警告している。",
+          "explanation": "warn that …。although＝〜だけれども。can＝〜することがある（可能性）。"
+        },
+        {
+          "id": "l4-3",
+          "question": "The taxes increased during the last decade remain a heavy burden on citizens.",
+          "answer": "この10年の間に引き上げられた税は、市民にとって依然として重い負担となっている。",
+          "explanation": "increased…は taxes を後置修飾する過去分詞（引き上げられた税）。動詞は remain。"
+        },
+        {
+          "id": "l4-4",
+          "question": "Some research conducted from the 1940s to mid-1990s that used chimpanzees was imperfect.",
+          "answer": "1940年代から1990年代半ばにかけて行われた、チンパンジーを用いた研究の中には、不完全なものもあった。",
+          "explanation": "山形大。conducted… と関係詞 that used… が research を修飾。主語は Some research、動詞は was。"
+        },
+        {
+          "id": "l4-5",
+          "question": "A bird that has been separated from its fellows from the day it hatched out of an egg can nevertheless build the kind of nest characteristic of its species.",
+          "answer": "卵からかえった日から仲間と引き離されてきた鳥でも、それにもかかわらず、その種に特有の種類の巣を作ることができる。",
+          "explanation": "characteristic of＝〜に特有の。nevertheless＝それにもかかわらず。"
+        },
+        {
+          "id": "l4-6",
+          "question": "As most mothers know, an infant able to use the word “Daddy” may apply it on occasion to any male he sees.",
+          "answer": "たいていの母親が知っているように、「パパ」という言葉を使えるようになった幼児は、時として、目にする男性なら誰にでもその言葉を当てはめてしまうことがある。",
+          "explanation": "able to…は infant を後置修飾。apply A to B＝AをBに当てはめる。on occasion＝時折。"
+        },
+        {
+          "id": "l4-7",
+          "question": "By early adulthood most of us will have become experts at reading other people’s intentions. We are so attuned to the inner thoughts and feelings of those around us that even professionals trained not to respond emotionally to the suffering of others find it difficult not to be moved.",
+          "answer": "成人初期までに、私たちの大半は他人の意図を読み取る達人になっているだろう。私たちは周囲の人々の内なる思考や感情に非常に敏感であるため、他人の苦しみに感情的に反応しないよう訓練された専門家でさえ、心を動かされずにいるのは難しいと感じる。",
+          "explanation": "will have become＝未来完了。be attuned to＝〜に敏感だ。so … that ～。find it difficult to do（形式目的語 it）。"
+        }
+      ]
+    },
+    {
+      "id": "eng-lesson6",
+      "title": "Lesson6 — 英文解釈",
+      "cards": [
+        {
+          "id": "l6-1",
+          "question": "The purpose of sleep may be to help us remember what’s important by letting us forget what’s not.",
+          "answer": "睡眠の目的は、重要でないことを忘れさせることによって、重要なことを覚えておく手助けをすることなのかもしれない。",
+          "explanation": "三重大 2011。help O (to) do、let O do（使役）。what’s important／what’s not＝関係代名詞 what。"
+        },
+        {
+          "id": "l6-2",
+          "question": "If two related kinds of speech are so close that speakers can have a conversation and understand each other, they are dialects of a single language.",
+          "answer": "関連する二つの言葉が、話し手同士が会話をして互いに理解し合えるほど近いのであれば、それらは一つの言語の方言である。",
+          "explanation": "大分大 2016。so … that ～（…なので～／～なほど…）。dialect＝方言。"
+        },
+        {
+          "id": "l6-3",
+          "question": "He also began to compare the new animals he was seeing with ones from his own country.",
+          "answer": "彼はまた、自分が目にしている見慣れない動物を、自国の動物と比較し始めた。",
+          "explanation": "三重大 2012。compare A with B＝AをBと比較する。ones＝animals の反復を避ける代名詞。"
+        },
+        {
+          "id": "l6-4",
+          "question": "For over a generation now, efforts to make decisions about care and treatment more patient-friendly have focused on getting patients and doctors to work together. Numerous research papers, conferences and advocacy organizations have been devoted to this topic of “shared decision-making.” But one thing has been missing in nearly all of these earnest efforts to encourage doctors to share the decision-making process. That is, ironically, the patient’s perspective.",
+          "answer": "もう一世代以上にわたって、ケアや治療に関する決定をより患者にやさしいものにしようとする取り組みは、患者と医師に協力させることに焦点を当ててきた。数多くの研究論文や会議、擁護団体が、この「共同意思決定」という主題に力を注いできた。しかし、医師に意思決定の過程を分かち合うよう促すこうした真剣な取り組みのほぼすべてにおいて、一つ欠けているものがあった。それは皮肉にも、患者の視点である。",
+          "explanation": "大阪医科薬科大。make O C（patient-friendly）。get O to do／encourage O to do＝Oに〜させる・促す。be devoted to＝〜に注がれる。"
+        }
+      ]
+    },
+    {
+      "id": "eng-lesson7",
+      "title": "Lesson7 — 英文解釈・英作文",
+      "cards": [
+        {
+          "id": "l7-1",
+          "question": "If you think memory problems are the preserve of the elderly, forget it. Young people frequently struggle to remember things, too. A British study shows that men and women in their twenties regularly forget anything from why they entered the room to where they put their keys, while more than half struggle to find the right word at least once a week.",
+          "answer": "記憶の問題は高齢者だけのものだと思っているなら、それは忘れてほしい。若い人もまた、物事を思い出すのに頻繁に苦労している。あるイギリスの研究によれば、20代の男女は、なぜ部屋に入ったのかから鍵をどこに置いたかまで、あらゆることを日常的に忘れており、半数以上が少なくとも週に一度は適切な言葉が出てこなくて苦労しているという。",
+          "explanation": "兵庫医科大 2021。the preserve of＝〜の専有物・領分。from A to B＝AからBまで。while＝一方で。"
+        },
+        {
+          "id": "l7-2",
+          "question": "Her experience as a volunteer prepared her to stay calm during the emergency.",
+          "answer": "ボランティアとしての経験のおかげで、彼女は緊急事態の間も冷静でいられた。",
+          "explanation": "prepare O to do＝Oが〜する備えをさせる。無生物主語は「〜のおかげで」と訳すと自然。"
+        },
+        {
+          "id": "l7-3",
+          "question": "Winning the trust of the local people will take you a lot of patience.",
+          "answer": "地元の人々の信頼を勝ち取るには、多大な忍耐を要するだろう。",
+          "explanation": "動名詞句 Winning… が主語。take 人 物＝（人に）〜を要する。"
+        },
+        {
+          "id": "l7-4",
+          "question": "She told me to come in and have a cup of tea.",
+          "answer": "彼女は私に、中に入ってお茶を一杯飲むようにと言った。",
+          "explanation": "tell O to do＝Oに〜するように言う。"
+        },
+        {
+          "id": "l7-5",
+          "question": "The end of law is not to abolish or restrain, but to preserve and enlarge freedom.",
+          "answer": "法の目的は、自由を廃止したり制限したりすることではなく、自由を守り拡大することである。",
+          "explanation": "ここでの end＝目的。not A but B＝AではなくB。"
+        },
+        {
+          "id": "l7-6",
+          "question": "The importance of mathematics in our culture appears unbelievable to many people. This idea is quite understandable but mistaken, and results from a very common conception of what mathematics really is.",
+          "answer": "私たちの文化における数学の重要性は、多くの人々にとって信じがたいものに思える。この考えはもっともなものではあるが誤っており、数学とは本当は何なのかについてのごくありふれた捉え方から生じている。",
+          "explanation": "大阪公立大 2021。appear C＝Cに見える。result from＝〜から生じる。what mathematics really is＝関係代名詞 what。"
+        },
+        {
+          "id": "l7-7",
+          "question": "A situation can feel more psychologically or emotionally distant when viewed through a foreign language lens. Because emotions play a key role in how we make decisions, people are often less biased and more consistent when making choices in the less emotional foreign language.",
+          "answer": "ある状況は、外国語というレンズを通して見ると、心理的・感情的により距離があるように感じられることがある。感情は私たちの意思決定の仕方において重要な役割を果たすため、感情を伴いにくい外国語で選択を行うとき、人はしばしば偏りが少なく、より一貫した判断をする。",
+          "explanation": "when viewed／when making＝接続詞＋分詞（主語＋be の省略）。play a role in＝〜で役割を果たす。"
+        },
+        {
+          "id": "l7-8",
+          "question": "（問）What is important is what you do for and with money.",
+          "answer": "重要なのは、お金のために、またお金を使って何をするかということだ。",
+          "explanation": "What is important（重要なこと）が主語、what you do…（〜すること）が補語。どちらも関係代名詞 what。for and with money＝お金のために、そしてお金を使って。"
+        },
+        {
+          "id": "l7-9",
+          "question": "“Wash your hands!” It sounds straightforward, but it isn’t at all. An observational study of more than 3,000 people found 10% left public toilets without washing their hands at all, and even if they did, 33% didn’t use soap. This matters because, unfortunately, we can’t resist touching our faces, allowing viruses to spread easily from our hands.",
+          "answer": "「手を洗いなさい！」それは簡単なことのように聞こえるが、まったくそうではない。3,000人以上を対象とした観察研究によると、10%の人が手をまったく洗わずに公衆トイレを出ており、たとえ洗ったとしても33%は石けんを使わなかった。これが重要なのは、残念ながら私たちは顔を触るのを我慢できず、その結果ウイルスが手から容易に広がってしまうからである。",
+          "explanation": "福岡大-医 2018。not … at all＝まったく〜ない。can’t resist doing＝〜せずにはいられない。allowing…＝結果を表す分詞構文。"
+        },
+        {
+          "id": "l7-10",
+          "question": "The smartphone has become so much a part of our daily life that we hardly realize how much we depend on it until we stop to think how difficult it would be to do without it.",
+          "answer": "スマートフォンは私たちの日常生活の一部になりすぎていて、それなしで済ますことがどれほど難しいかを立ち止まって考えてみるまで、自分がどれほどそれに依存しているかにほとんど気づかない。",
+          "explanation": "so … that ～。hardly＝ほとんど〜ない。stop to do＝立ち止まって〜する。do without＝〜なしで済ます。"
+        },
+        {
+          "id": "l7-11",
+          "question": "Some pet owners claim that the dog’s trainability is evidence of that animal’s superior intelligence, but how easily a dog can learn to make the connection between a command (an action) and a reward has little to do with IQ.",
+          "answer": "ペットを飼っている人の中には、犬の訓練のしやすさはその動物の優れた知能の証拠だと主張する人もいるが、犬が命令（ある動作）と報酬とを結びつけることをどれほど簡単に学習できるかは、知能指数とはほとんど関係がない。",
+          "explanation": "関西学院大。how easily … の節が主語、動詞は has。have little to do with＝〜とほとんど関係がない。"
+        },
+        {
+          "id": "l7-12",
+          "question": "The brain is often envisioned as something like a computer, and the body as its all-purpose tool. But a growing body of new research suggests that something more collaborative is going on — that we think not just with our brains, but with our bodies. A recent series of studies has shown that children can solve math problems better if they are told to use their hands while thinking. Another recent study suggested that stage actors remember their lines better when they are moving. And in one study published last year, a group of people asked to move their eyes in a specific pattern while puzzling through a logical problem were twice as likely to solve it.",
+          "answer": "脳はしばしばコンピューターのようなものとして、そして身体はその万能の道具として思い描かれる。しかし、増えつつある新たな研究は、もっと協働的な何かが起きていること——つまり私たちは脳だけでなく身体でも考えている、ということを示唆している。最近の一連の研究によれば、子どもは考えながら手を使うように言われると、数学の問題をよりうまく解くことができる。別の最近の研究は、舞台俳優は体を動かしているときの方がせりふをよく覚えていることを示唆した。そして昨年発表されたある研究では、論理問題に頭を悩ませている間に特定のパターンで目を動かすように言われた人々のグループは、その問題を解ける可能性が2倍高かった。",
+          "explanation": "名古屋大。a growing body of＝増えつつある（量の）。not just A but B。twice as … as＝2倍…。asked to…は people を後置修飾。"
+        },
+        {
+          "id": "l7-13",
+          "question": "【整序・英作文】「彼らは20％割引をしてくれるので、私たちはその仕事を繁華街の小さな店にやってもらうことにした。」を英訳しなさい。",
+          "answer": "We decided to have the work done by the small shop downtown because they offer a 20% discount.",
+          "explanation": "東京大-医。have O done＝Oを〜してもらう（使役の受動）。downtown＝繁華街で（副詞）。"
+        },
+        {
+          "id": "l7-14",
+          "question": "【英作文】「君には期待しているよ」を英語にしなさい。",
+          "answer": "I expect you to do well.",
+          "explanation": "expect O to do＝Oが〜することを期待する。do well＝うまくやる。"
+        }
+      ]
+    },
+    {
+      "id": "eng-lesson9",
+      "title": "Lesson9 — 英文解釈",
+      "cards": [
+        {
+          "id": "l9-1",
+          "question": "Understanding evolutionary processes is important for recognizing how the human being has developed. The key in human evolution is our adaptability, which allows us to survive in very different environments. The environment shapes which parts of our genetic information will be influential in our development.",
+          "answer": "進化の過程を理解することは、人類がどのように発達してきたかを認識するうえで重要である。人類の進化の鍵は私たちの適応力であり、それによって私たちは非常に異なる環境でも生き延びることができる。環境は、私たちの遺伝情報のどの部分が私たちの発達に影響を及ぼすかを決定づける。",
+          "explanation": "信州大 2012。動名詞 Understanding… が主語。which＝非制限用法（そしてそれは）。shape＝形づくる・決定づける。"
+        },
+        {
+          "id": "l9-2",
+          "question": "We get used to particular newspapers and magazines and often, after a while, come to take their typical content for granted. Some degree of familiarity with a particular paper or magazine is often necessary so that the reader who wants to get the information can understand it with ease.",
+          "answer": "私たちは特定の新聞や雑誌に慣れ、しばらくすると、その典型的な内容を当然のものとみなすようになることが多い。情報を得ようとする読者がそれを容易に理解できるためには、特定の新聞や雑誌にある程度なじんでいることがしばしば必要である。",
+          "explanation": "get used to＝〜に慣れる。come to do＝〜するようになる。take A for granted＝Aを当然と思う。so that … can ～＝〜できるように。"
         }
       ]
     }
