@@ -373,6 +373,396 @@
           "explanation": "get used to＝〜に慣れる。come to do＝〜するようになる。take A for granted＝Aを当然と思う。so that … can ～＝〜できるように。"
         }
       ]
+    },
+    {
+      "id": "eng-add1",
+      "title": "追加1 — 分詞・動名詞・倒置",
+      "cards": [
+        {
+          "id": "a1-1",
+          "question": "The girl called Mary.",
+          "answer": "その少女はメアリーに電話をかけた。",
+          "explanation": "この called は動詞（call＝電話する）の過去形。次の(2)との対比に注意。"
+        },
+        {
+          "id": "a1-2",
+          "question": "The girl called Mary is my sister.",
+          "answer": "メアリーと呼ばれているその少女は、私の妹だ。",
+          "explanation": "called Mary は The girl を後置修飾する過去分詞（〜と呼ばれる）。動詞は is。"
+        },
+        {
+          "id": "a1-3",
+          "question": "For elderly people, interacting with animals has several medical benefits.",
+          "answer": "お年寄りにとって、動物と触れ合うことにはいくつかの医学的な利点がある。",
+          "explanation": "動名詞句 interacting… が主語（動詞は has）。"
+        },
+        {
+          "id": "a1-4",
+          "question": "At the top of the mountain stood a house.",
+          "answer": "山の頂上に一軒の家が建っていた。",
+          "explanation": "場所を表す副詞句が文頭に出たための倒置（V＋S）。主語は a house。"
+        },
+        {
+          "id": "a1-5",
+          "question": "The school built two hundred years ago produced a lot of excellent students.",
+          "answer": "200年前に建てられたその学校は、多くの優秀な生徒を輩出した。",
+          "explanation": "built two hundred years ago が The school を後置修飾する過去分詞。動詞は produced。"
+        },
+        {
+          "id": "a1-6",
+          "question": "Thanks to your kind advice, our team was able to overcome the difficulty.",
+          "answer": "あなたの親切な助言のおかげで、私たちのチームはその困難を乗り越えることができた。",
+          "explanation": "thanks to＝〜のおかげで。be able to do＝〜できた。"
+        },
+        {
+          "id": "a1-7",
+          "question": "In order to obtain maximum use from water, we must continually purify it.",
+          "answer": "水を最大限に活用するためには、私たちは絶えず水を浄化しなければならない。",
+          "explanation": "in order to do＝〜するために。purify＝浄化する。"
+        },
+        {
+          "id": "a1-8",
+          "question": "Speaking only one language can be compared to living in a room with no windows and no doors.",
+          "answer": "一つの言語しか話さないことは、窓もドアもない部屋で暮らすことにたとえられる。",
+          "explanation": "動名詞句が主語。compare A to B＝AをBにたとえる（受動態 be compared to）。"
+        }
+      ]
+    },
+    {
+      "id": "eng-add2",
+      "title": "追加2 — 文型（SVOO・SVOC・知覚動詞）",
+      "cards": [
+        {
+          "id": "a2-1",
+          "question": "The boy in this photo became a meteorologist.",
+          "answer": "この写真の少年は気象学者になった。",
+          "explanation": "become C＝第2文型 SVC。meteorologist＝気象学者。"
+        },
+        {
+          "id": "a2-2",
+          "question": "On the street my father encountered a famous athlete.",
+          "answer": "通りで、父は有名な運動選手に出くわした。",
+          "explanation": "encounter＝〜に出くわす（他動詞、SVO）。"
+        },
+        {
+          "id": "a2-3",
+          "question": "The news of his success in business made his colleagues happy.",
+          "answer": "彼の事業での成功の知らせは、同僚たちを喜ばせた。",
+          "explanation": "make O C（happy）＝第5文型 SVOC。"
+        },
+        {
+          "id": "a2-4",
+          "question": "After his death the man left his dearest daughter a large fortune.",
+          "answer": "その男は亡くなったあと、最愛の娘に多額の財産を残した。",
+          "explanation": "leave O₁ O₂＝O₁にO₂を残す（第4文型 SVOO）。"
+        },
+        {
+          "id": "a2-5",
+          "question": "She felt her heart beat hard when she saw her boyfriend talk intimately with her best friend.",
+          "answer": "恋人が親友と親しげに話しているのを見たとき、彼女は心臓が激しく高鳴るのを感じた。",
+          "explanation": "知覚動詞 feel O 原形（beat）／see O 原形（talk）＝Oが〜するのを感じる・見る。"
+        },
+        {
+          "id": "a2-6",
+          "question": "Finding positive ways to communicate with the other person makes the relationship better.",
+          "answer": "相手とコミュニケーションをとる前向きな方法を見つけることは、その関係をよりよくする。",
+          "explanation": "動名詞句 Finding… が主語。make O C（better）。"
+        },
+        {
+          "id": "a2-7",
+          "question": "I found the traffic still.",
+          "answer": "私は、交通が止まっている（車の動きがない）ことに気づいた。",
+          "explanation": "find O C＝OがCだと分かる。still は形容詞「静止した」。"
+        },
+        {
+          "id": "a2-8",
+          "question": "Human beings are endowed with the ability to speak.",
+          "answer": "人間は、話す能力を生まれながらに授けられている。",
+          "explanation": "be endowed with＝〜を授かっている・備えている。"
+        }
+      ]
+    },
+    {
+      "id": "eng-add3",
+      "title": "追加3 — 動詞の語法（deprive / prevent 型）",
+      "cards": [
+        {
+          "id": "a3-1",
+          "question": "The advance of medical science has prolonged life greatly. But the scientists have not told us what we should do to relieve us of the burdens of old age.",
+          "answer": "医学の進歩は寿命を大きく延ばしてきた。しかし科学者たちは、老いの重荷から私たちを解放するために何をすべきかを、教えてはくれていない。",
+          "explanation": "relieve A of B＝AからB（負担など）を取り除く。prolong＝延ばす。"
+        },
+        {
+          "id": "a3-2",
+          "question": "The earthquake deprived a lot of people of their normal life.",
+          "answer": "その地震は、多くの人々から普通の生活を奪った。",
+          "explanation": "deprive A of B＝AからBを奪う。"
+        },
+        {
+          "id": "a3-3",
+          "question": "I hurried home to prevent the Gas Company from turning off my utilities.",
+          "answer": "ガス会社に（ガスなどの）供給を止められないように、私は急いで帰宅した。",
+          "explanation": "prevent A from doing＝Aが〜するのを妨げる。utilities＝電気・ガス・水道などの供給。"
+        },
+        {
+          "id": "a3-4",
+          "question": "The widow denied herself all pleasures to send her son to college.",
+          "answer": "その未亡人は、息子を大学にやるために、あらゆる楽しみを自分に禁じた。",
+          "explanation": "deny oneself A＝Aを自分に許さない・我慢する。widow＝未亡人。"
+        },
+        {
+          "id": "a3-5",
+          "question": "Her lack of money prevented her from traveling abroad.",
+          "answer": "お金の不足が、彼女が海外旅行するのを妨げた（＝お金がなくて海外旅行できなかった）。",
+          "explanation": "prevent A from doing。無生物主語は「〜のせいで」と訳すと自然。"
+        },
+        {
+          "id": "a3-6",
+          "question": "To the zoo I wanted to visit, my father took me last week.",
+          "answer": "私が訪れたかったその動物園に、父は先週、私を連れて行ってくれた。",
+          "explanation": "副詞句 To the zoo… を文頭に出した強調的な語順。take 人 to 場所。"
+        },
+        {
+          "id": "a3-7",
+          "question": "We share with other mammals a core brain which ensures survival.",
+          "answer": "私たちは、生存を保証する中核的な脳を、他の哺乳類と共有している。",
+          "explanation": "share A with B の A が長いため share with B A の語順。which…は a core brain を修飾。"
+        },
+        {
+          "id": "a3-8",
+          "question": "According to the recent survey, a lot of parents blame school for their children's mistakes.",
+          "answer": "最近の調査によると、多くの親が、子どもの過ちを学校のせいにしている。",
+          "explanation": "blame A for B＝BのことでAを責める・Aのせいにする。according to＝〜によると。"
+        }
+      ]
+    },
+    {
+      "id": "eng-add4",
+      "title": "追加4 — 抽象度の高い一文（批判的思考）",
+      "cards": [
+        {
+          "id": "a4-1",
+          "question": "Becoming aware of a set of attitudes and strategies sometimes referred to as critical thinking can help make your college experience more profitable.",
+          "answer": "クリティカル・シンキング（批判的思考）と呼ばれることもある一連の態度や方略を意識するようになることは、大学での経験をより有益なものにする助けとなりうる。",
+          "explanation": "動名詞句 Becoming… が主語（動詞は can help）。referred to as＝〜と呼ばれる。help (to) make。"
+        }
+      ]
+    },
+    {
+      "id": "eng-add5",
+      "title": "追加5 — 不定詞・動名詞（意味上の主語・形式目的語）",
+      "cards": [
+        {
+          "id": "a5-1",
+          "question": "Taking too much water from under the ground may injure the earth.",
+          "answer": "地下から水をくみ上げすぎることは、大地を傷つけるかもしれない。",
+          "explanation": "動名詞句 Taking… が主語。injure＝傷つける。"
+        },
+        {
+          "id": "a5-2",
+          "question": "For the young to be kind to the old is a matter of course.",
+          "answer": "若者が年配者に親切にするのは、当然のことだ。",
+          "explanation": "For A to do＝意味上の主語つき不定詞（Aが〜すること）。the young＝若者、the old＝老人。a matter of course＝当然のこと。"
+        },
+        {
+          "id": "a5-3",
+          "question": "One of the best ways to keep your brain sharp when you get older may be to stay busy.",
+          "answer": "年をとったときに頭脳を鋭敏に保つ最良の方法の一つは、忙しくしていることかもしれない。",
+          "explanation": "keep O C（sharp）。be動詞の補語が不定詞 to stay busy。"
+        },
+        {
+          "id": "a5-4",
+          "question": "The professor suggested me studying abroad.",
+          "answer": "その教授は、私に留学することを勧めた。",
+          "explanation": "suggest＋動名詞（studying）。※厳密には suggested (that) I (should) study が正式。"
+        },
+        {
+          "id": "a5-5",
+          "question": "To hold a World Cup of Football Game would require the construction of a main stadium having the capacity of 80,000.",
+          "answer": "サッカーのワールドカップを開催するには、8万人を収容できるメインスタジアムの建設が必要になるだろう。",
+          "explanation": "不定詞 To hold… が主語。having…は stadium を修飾する分詞。capacity＝収容力。"
+        },
+        {
+          "id": "a5-6",
+          "question": "The fog made it impossible for them to find the way out of the woods.",
+          "answer": "その霧のせいで、彼らは森から出る道を見つけることができなくなった。",
+          "explanation": "make it C for A to do＝形式目的語 it（真の目的語は to find…）。"
+        },
+        {
+          "id": "a5-7",
+          "question": "Enlightenment philosophers denied the possibilities of miracles and believed that truth was to be found through scientific study of the laws of nature.",
+          "answer": "啓蒙思想の哲学者たちは奇跡の可能性を否定し、真理は自然の法則の科学的研究を通じて見いだされるべきものだと信じていた。",
+          "explanation": "be to be found＝「be to 不定詞」＋受動態（見いだされるべきだ）。Enlightenment＝啓蒙（思想）。"
+        }
+      ]
+    },
+    {
+      "id": "eng-add6",
+      "title": "追加6 — 関係詞",
+      "cards": [
+        {
+          "id": "a6-1",
+          "question": "Everyone who matters speaks English.",
+          "answer": "重要な人は皆、英語を話す。",
+          "explanation": "who matters＝主格の関係代名詞節（Everyone を修飾）。matter＝重要である。動詞は speaks。"
+        },
+        {
+          "id": "a6-2",
+          "question": "A desert is a hot, barren region that receives little rainfall.",
+          "answer": "砂漠とは、雨がほとんど降らない、暑く不毛な地域である。",
+          "explanation": "that＝主格の関係代名詞（region を修飾）。barren＝不毛の。little＋不可算＝ほとんどない。"
+        },
+        {
+          "id": "a6-3",
+          "question": "Most of the sounds we hear travel through the air.",
+          "answer": "私たちが聞く音のほとんどは、空気を通って伝わる。",
+          "explanation": "the sounds (that) we hear＝目的格の関係代名詞の省略。動詞は travel（伝わる）。"
+        },
+        {
+          "id": "a6-4",
+          "question": "The capacity to endure a more or less monotonous life is one which should be acquired in childhood.",
+          "answer": "多かれ少なかれ単調な生活に耐える能力は、子ども時代に身につけておくべきものである。",
+          "explanation": "one＝capacity の代用。which＝主格の関係代名詞。more or less＝多かれ少なかれ。"
+        },
+        {
+          "id": "a6-5",
+          "question": "I will never forget the days I spent with you.",
+          "answer": "私は、あなたと過ごした日々を決して忘れないだろう。",
+          "explanation": "the days (that) I spent＝目的格の関係代名詞の省略。"
+        },
+        {
+          "id": "a6-6",
+          "question": "Those whose weight remains stable are healthier than those who gain and lose weight repeatedly.",
+          "answer": "体重が安定している人は、繰り返し体重が増えたり減ったりする人よりも健康である。",
+          "explanation": "whose＝所有格の関係代名詞。those who ～＝〜する人々。"
+        },
+        {
+          "id": "a6-7",
+          "question": "Language is the means by which people can communicate with other people.",
+          "answer": "言語とは、人々が他の人々と意思疎通できる手段である。",
+          "explanation": "by which＝前置詞＋関係代名詞（communicate by the means より）。means＝手段。"
+        },
+        {
+          "id": "a6-8",
+          "question": "Grandmothers were able to search for roots and vegetables which they could give to their daughters when they were having babies, creating a well-nourished, thriving third generation.",
+          "answer": "祖母たちは、娘が出産するときに与えられる根菜や野菜を探すことができ、その結果、栄養の行き届いた繁栄する第三世代を生み出した。",
+          "explanation": "which＝目的格の関係代名詞。creating…＝結果を表す分詞構文。well-nourished＝栄養の行き届いた。"
+        }
+      ]
+    },
+    {
+      "id": "eng-add7",
+      "title": "追加7 — 分詞構文・付帯状況",
+      "cards": [
+        {
+          "id": "a7-1",
+          "question": "Not wanting to waste money on expensive dishes, she was at a loss as to what to order at the restaurant.",
+          "answer": "高価な料理にお金を使いたくなかったので、彼女はそのレストランで何を注文すべきか途方に暮れた。",
+          "explanation": "否定の分詞構文（Not doing）。at a loss＝途方に暮れて。as to＝〜について。"
+        },
+        {
+          "id": "a7-2",
+          "question": "He is afraid to speak for fear of making errors.",
+          "answer": "彼は、間違いをすることを恐れて、話すのを怖がっている。",
+          "explanation": "for fear of doing＝〜することを恐れて。be afraid to do＝怖くて〜できない。"
+        },
+        {
+          "id": "a7-3",
+          "question": "Her work done, Aunt Flora sat down for a cup of tea.",
+          "answer": "仕事が終わって、フローラおばさんはお茶を一杯飲もうと腰を下ろした。",
+          "explanation": "独立分詞構文：Her work (being) done＝仕事が終わった状態で。主節の主語と異なる主語を持つ。"
+        },
+        {
+          "id": "a7-4",
+          "question": "I can't settle down to my studies with so many cars running in front of my house.",
+          "answer": "家の前でとても多くの車が走っているので、私は勉強に落ち着いて取り組めない。",
+          "explanation": "with O doing＝付帯状況（Oが〜している状態で）。settle down to＝〜に落ち着いて取り組む。"
+        },
+        {
+          "id": "a7-5",
+          "question": "To earn her allowance, Betty made herself useful around the house.",
+          "answer": "小遣いを稼ぐために、ベティは家の中で自分が役に立つようにした。",
+          "explanation": "目的を表す不定詞。make oneself useful＝役に立つようにする。allowance＝小遣い。"
+        },
+        {
+          "id": "a7-6",
+          "question": "To understand the situation of the hungry, we need to realize that for one reason or another, they simply lack access to world food markets.",
+          "answer": "飢えた人々の状況を理解するためには、何らかの理由で彼らは単に世界の食料市場に手が届かないだけなのだ、ということを認識する必要がある。",
+          "explanation": "the hungry＝飢えた人々（the＋形容詞）。for one reason or another＝何らかの理由で。lack＝〜を欠く。"
+        },
+        {
+          "id": "a7-7",
+          "question": "They stepped aside in order for me to enter the room.",
+          "answer": "私が部屋に入れるように、彼らは脇へよけた。",
+          "explanation": "in order for A to do＝Aが〜できるように。step aside＝脇へよける。"
+        },
+        {
+          "id": "a7-8",
+          "question": "This monkey, trained properly, will be able to do a lot of tricks.",
+          "answer": "この猿は、適切に訓練されれば、たくさんの芸ができるようになるだろう。",
+          "explanation": "trained properly＝分詞構文（条件「訓練されれば」）。trick＝芸。"
+        }
+      ]
+    },
+    {
+      "id": "eng-add8",
+      "title": "追加8 — 接続詞・譲歩（as / so that / once）",
+      "cards": [
+        {
+          "id": "a8-1",
+          "question": "Father waxed his car so that the exterior shone like a mirror.",
+          "answer": "父は、車の外装が鏡のように輝くように、ワックスをかけた。",
+          "explanation": "so that S V＝〜するように／その結果〜。exterior＝外装。"
+        },
+        {
+          "id": "a8-2",
+          "question": "Once you have a huge house, you have to make sure you have a big job to pay the loan.",
+          "answer": "いったん大きな家を持てば、ローンを払うために立派な仕事に就いていることを確実にしなければならない。",
+          "explanation": "once＝いったん〜すると。make sure (that)＝〜を確実にする。"
+        },
+        {
+          "id": "a8-3",
+          "question": "Enormous as the hospital was, it was not large enough for all the victims in the disaster.",
+          "answer": "その病院は非常に大きかったが、その災害のすべての犠牲者を収容できるほど大きくはなかった。",
+          "explanation": "形容詞＋as＋S＋V＝譲歩（〜だけれども）。enough for＝〜にとって十分な。"
+        }
+      ]
+    },
+    {
+      "id": "eng-add9",
+      "title": "追加9 — 接続詞（理由・対比・so〜that）",
+      "cards": [
+        {
+          "id": "a9-1",
+          "question": "Since metal fatigue is now known to be a cause of air accident, airline technicians examine bodywork of airplane to detect the sign of weakness.",
+          "answer": "金属疲労が今では航空事故の一因であると知られているので、航空技術者は、弱化の兆候を見つけるために飛行機の機体を調べる。",
+          "explanation": "since＝〜なので（理由）。be known to be＝〜であると知られている。metal fatigue＝金属疲労。"
+        },
+        {
+          "id": "a9-2",
+          "question": "Although treatments have improved, osteoporosis is still one of the biggest risks to the long term health of women, particularly after menopause.",
+          "answer": "治療法は進歩したものの、骨粗鬆症（こつそしょうしょう）は、特に閉経後の女性の長期的な健康にとって、依然として最大の危険の一つである。",
+          "explanation": "although＝〜だけれども（譲歩）。osteoporosis＝骨粗鬆症。menopause＝閉経。"
+        },
+        {
+          "id": "a9-3",
+          "question": "While many of the boys said they enjoyed the use of the computer itself, the girls tended to value the computer for how it could help them do something.",
+          "answer": "多くの男子がコンピューターを使うこと自体を楽しんでいると言った一方で、女子は、コンピューターが何かをする手助けをどれだけしてくれるかという点でコンピューターを評価する傾向があった。",
+          "explanation": "while＝〜する一方で（対比）。value A for B＝BのことでAを評価する。"
+        },
+        {
+          "id": "a9-4",
+          "question": "The man looked so tired that he didn't even notice my presence.",
+          "answer": "その男はとても疲れているように見えたので、私がいることにさえ気づかなかった。",
+          "explanation": "so … that ～＝とても…なので～。presence＝存在・居ること。"
+        },
+        {
+          "id": "a9-5",
+          "question": "He did not come to the hospital because he was sick. He came to visit his mother.",
+          "answer": "彼は病気だから病院に来たのではない。母を見舞うために来たのだ。",
+          "explanation": "not … because ～ の否定の作用域に注意（「〜だからではない」）。"
+        }
+      ]
     }
   ]
 }

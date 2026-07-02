@@ -106,7 +106,8 @@
         el("a", {
           class: "btn warn" + (wrongCount ? "" : " disabled"),
           href: wrongCount ? "#/review/" + subjectId : "#"
-        }, ["🔁 間違えた問題を復習 (" + wrongCount + ")"])
+        }, ["🔁 間違えた問題を復習 (" + wrongCount + ")"]),
+        el("a", { class: "btn ghost", href: "#/print/" + subjectId }, ["🖨 全問題を印刷"])
       ]));
 
       var list = el("div", { class: "deck-list" }, []);
@@ -128,7 +129,8 @@
           el("p", { class: "deck-meta", text: ids.length + "問 ・ 学習済み " + st.answered + "問" }),
           el("div", { class: "deck-actions" }, [
             el("a", { class: "btn", href: "#/quiz/" + subjectId + "/" + deck.id + "?mode=test" }, ["📝 テスト"]),
-            el("a", { class: "btn ghost", href: "#/quiz/" + subjectId + "/" + deck.id + "?mode=flash" }, ["🃏 暗記カード"])
+            el("a", { class: "btn ghost", href: "#/quiz/" + subjectId + "/" + deck.id + "?mode=flash" }, ["🃏 暗記カード"]),
+            el("a", { class: "btn ghost", href: "#/print/" + subjectId + "/" + deck.id }, ["🖨 印刷"])
           ])
         ]));
       });
@@ -314,6 +316,78 @@
     }).catch(function (e) { showError(e.message); });
   }
 
+  // ---------- ビュー: 印刷（A4） ----------
+  function viewPrint(subjectId, deckId, query) {
+    clear();
+    Data.getSubject(subjectId).then(function (sub) {
+      headerTitle.textContent = sub.meta.name + " 印刷";
+      var decks = deckId
+        ? (sub.decks || []).filter(function (d) { return d.id === deckId; })
+        : (sub.decks || []);
+      if (!decks.length) return showError("印刷する問題が見つかりません。");
+
+      var showAnswers = query.answers !== "0";
+      var backHref = "#/subject/" + subjectId;
+      var toggleHref = "#/print/" + subjectId + (deckId ? "/" + deckId : "") +
+        "?answers=" + (showAnswers ? "0" : "1");
+
+      // 画面のみ表示するツールバー（印刷時は隠す）
+      var toolbar = el("div", { class: "no-print print-toolbar" }, [
+        el("a", { class: "btn ghost", href: backHref }, ["← 戻る"]),
+        el("button", { class: "btn", onclick: function () { window.print(); } }, ["🖨 印刷する"]),
+        el("a", { class: "btn ghost", href: toggleHref }, [showAnswers ? "解答を隠す" : "解答を表示"]),
+        el("span", { class: "print-hint", text: "※ 印刷ダイアログで用紙サイズ「A4」を選んでください" })
+      ]);
+
+      var today = new Date();
+      var dateStr = today.getFullYear() + "年" + (today.getMonth() + 1) + "月" + today.getDate() + "日";
+
+      var docNodes = [
+        el("div", { class: "print-head" }, [
+          el("h1", { class: "print-title", text: sub.meta.name + "　" + (deckId ? decks[0].title : "全問題") }),
+          el("span", { class: "print-date", text: dateStr })
+        ])
+      ];
+
+      // 問題
+      var problemSection = el("section", { class: "print-section" }, []);
+      decks.forEach(function (deck) {
+        problemSection.appendChild(el("h2", { class: "print-deck", text: deck.title }));
+        var ol = el("ol", { class: "print-list" }, []);
+        (deck.cards || []).forEach(function (card) {
+          ol.appendChild(el("li", { class: "print-item" }, [
+            imageNode(card),
+            el("span", { text: card.question })
+          ]));
+        });
+        problemSection.appendChild(ol);
+      });
+      docNodes.push(problemSection);
+
+      // 解答
+      if (showAnswers) {
+        var answerSection = el("section", { class: "print-section print-answers" }, [
+          el("h1", { class: "print-title", text: "解答・解説" })
+        ]);
+        decks.forEach(function (deck) {
+          answerSection.appendChild(el("h2", { class: "print-deck", text: deck.title }));
+          var ol = el("ol", { class: "print-list" }, []);
+          (deck.cards || []).forEach(function (card) {
+            ol.appendChild(el("li", { class: "print-item" }, [
+              el("span", { class: "print-answer", text: card.answer }),
+              card.explanation ? el("span", { class: "print-explanation", text: "　" + card.explanation }) : null
+            ]));
+          });
+          answerSection.appendChild(ol);
+        });
+        docNodes.push(answerSection);
+      }
+
+      app.appendChild(toolbar);
+      app.appendChild(el("div", { class: "print-doc" }, docNodes));
+    }).catch(function (e) { showError(e.message); });
+  }
+
   // ---------- ルーター ----------
   function route() {
     var h = parseHash();
@@ -323,6 +397,7 @@
     if (p[0] === "subject" && p[1]) return viewSubject(p[1]);
     if (p[0] === "quiz" && p[1] && p[2]) return viewQuiz(p[1], p[2], h.query);
     if (p[0] === "review" && p[1]) return viewReview(p[1]);
+    if (p[0] === "print" && p[1]) return viewPrint(p[1], p[2], h.query);
     return viewHome();
   }
 

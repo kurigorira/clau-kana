@@ -198,6 +198,41 @@ html, body {
 
 .card.error { background: #fff; border: 1px solid var(--red); border-radius: var(--radius); padding: 20px; text-align: center; }
 
+/* 印刷ビュー（画面表示） */
+.print-toolbar { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin-bottom: 16px; }
+.print-hint { font-size: 12px; color: var(--muted); }
+.print-doc {
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 24px;
+  box-shadow: var(--shadow);
+}
+.print-head { display: flex; align-items: baseline; justify-content: space-between; border-bottom: 2px solid var(--ink); padding-bottom: 8px; margin-bottom: 12px; }
+.print-title { font-size: 20px; margin: 0; }
+.print-date { font-size: 13px; color: var(--muted); }
+.print-deck { font-size: 15px; margin: 16px 0 6px; padding-left: 8px; border-left: 4px solid var(--primary); }
+.print-list { margin: 0 0 8px; padding-left: 1.8em; }
+.print-item { margin-bottom: 10px; line-height: 1.9; }
+.print-answer { font-weight: 700; }
+.print-explanation { color: #4b5563; font-size: 0.92em; }
+.print-answers { border-top: 2px dashed var(--line); margin-top: 20px; padding-top: 12px; }
+
+/* 印刷時（A4） */
+@media print {
+  @page { size: A4; margin: 16mm 15mm; }
+  html, body { background: #fff; color: #000; }
+  .site-header, .site-footer, .no-print { display: none !important; }
+  .container { max-width: none; padding: 0; }
+  .print-doc { border: none; border-radius: 0; box-shadow: none; padding: 0; }
+  .print-title { font-size: 16pt; }
+  .print-deck { font-size: 12pt; break-inside: avoid; }
+  .print-list { font-size: 11pt; }
+  .print-item { break-inside: avoid; page-break-inside: avoid; margin-bottom: 8pt; }
+  .print-answers { break-before: page; page-break-before: always; }
+  .card-image { max-width: 60%; }
+}
+
 /* フッター */
 .site-footer { text-align: center; color: var(--muted); font-size: 12px; padding: 24px 16px 40px; }
 
