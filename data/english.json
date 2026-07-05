@@ -763,6 +763,188 @@
           "explanation": "not … because ～ の否定の作用域に注意（「〜だからではない」）。"
         }
       ]
+    },
+    {
+      "id": "eng-add10",
+      "title": "追加10 — 分詞構文（動詞を適切な形にする）",
+      "cards": [
+        { "id": "b10-1", "question": "My name ( be ) at the top of the list, I was called in first.", "answer": "being（My name being at the top of the list）", "explanation": "主節と主語が異なる独立分詞構文。being は省略も可。" },
+        { "id": "b10-2", "question": "The weather was bad this year, ( result ) in the poor harvest.", "answer": "resulting", "explanation": "「その結果〜」という結果を表す分詞構文。" },
+        { "id": "b10-3", "question": "( use ) cell phones, we can communicate with others easily.", "answer": "Using", "explanation": "能動の分詞構文（使えば）。" },
+        { "id": "b10-4", "question": "( sing ) a song, we enjoyed ourselves at the party.", "answer": "Singing", "explanation": "付帯状況の分詞構文（歌いながら）。" },
+        { "id": "b10-5", "question": "( bore ) at the speech, most audience left the auditorium.", "answer": "Bored", "explanation": "受動（退屈させられて）。感情動詞は過去分詞。" },
+        { "id": "b10-6", "question": "( injure ) in his leg, Helen could hardly walk.", "answer": "Injured", "explanation": "受動の分詞構文（けがをして）。" },
+        { "id": "b10-7", "question": "All things ( consider ), he is a fairly good husband.", "answer": "considered", "explanation": "All things considered＝あらゆることを考慮すると（独立分詞構文の慣用）。" },
+        { "id": "b10-8", "question": "This theater will be rebuilt next year, ( replace ) the original structure built in the 1950s.", "answer": "replacing", "explanation": "結果・付帯を表す分詞構文（〜に取って代わって）。" },
+        { "id": "b10-9", "question": "( be ) poor, she could not afford to buy a car.", "answer": "Being（Poor でも可）", "explanation": "理由の分詞構文（貧しかったので）。" },
+        { "id": "b10-10", "question": "Such ( be ) the case, he is unable to pay.", "answer": "being", "explanation": "Such being the case＝そういう事情なので（慣用）。" },
+        { "id": "b10-11", "question": "( Drive ) in the country, I often come up with a good idea.", "answer": "Driving", "explanation": "〜しているときの分詞構文。" },
+        { "id": "b10-12", "question": "( Write ) in easy English, this book is good for beginners.", "answer": "Written", "explanation": "受動（書かれているので）。本は「書かれる」側。" },
+        { "id": "b10-13", "question": "( Have ) done the job, you can do anything now.", "answer": "Having", "explanation": "Having done＝完了分詞構文（すでに〜し終えたので）。" },
+        { "id": "b10-14", "question": "( Not know ) what to do, the boy felt like crying.", "answer": "Not knowing", "explanation": "分詞構文の否定は not を分詞の前に置く。" },
+        { "id": "b10-15", "question": "Romeo, ( believe ) Juliet was dead, decided to kill himself.", "answer": "believing", "explanation": "主語 Romeo に対する能動の分詞構文（挿入）。" },
+        { "id": "b10-16", "question": "( Be ) tired, he went to bed earlier than usual.", "answer": "Being（Tired でも可）", "explanation": "理由の分詞構文（疲れていたので）。" },
+        { "id": "b10-17", "question": "( Walk ) all the way to the station, I felt exhausted.", "answer": "Walking", "explanation": "〜したので／しながらの分詞構文。" },
+        { "id": "b10-18", "question": "( Take ) when you have severe headache, this medicine will be effective.", "answer": "Taken", "explanation": "受動（薬は「飲まれる」側）。" },
+        { "id": "b10-19", "question": "( Go ) down this street, you will find the post office.", "answer": "Going", "explanation": "条件・付帯（この通りを行けば）。" },
+        { "id": "b10-20", "question": "( Unable ) to control herself, she burst into tears.", "answer": "Unable", "explanation": "Being unable の Being が省略された形。" },
+        { "id": "b10-21", "question": "With the night ( come ) on, we started home.", "answer": "coming", "explanation": "with O ～ing＝付帯状況（夜が迫る中で）。" },
+        { "id": "b10-22", "question": "( See ) her, I felt like crying.", "answer": "Seeing", "explanation": "〜したとき／したので（能動）。" },
+        { "id": "b10-23", "question": "Harry was standing with his arms ( fold ).", "answer": "folded", "explanation": "with O done＝腕を組んで（受動の付帯状況）。" }
+      ]
+    },
+    {
+      "id": "eng-add11",
+      "title": "追加11 — 分詞構文（空所補充・選択）",
+      "cards": [
+        { "id": "b11-1", "question": "Coming into the room, ( ). ① I found some flowers ② some flowers were found ③ there were some flowers found ④ some flowers on the table", "answer": "① I found some flowers", "explanation": "分詞の意味上の主語は主節の主語と一致。部屋に入ったのは「I」。" },
+        { "id": "b11-2", "question": "Deciding that it would be hopeless to carry out a search in the fog, ( ) their rescue party. ① the rescue party gave up ② was given up ③ decided to give up ④ hopeless to give up", "answer": "① the rescue party gave up", "explanation": "decide の主語＝the rescue party。主節の主語を一致させる。" },
+        { "id": "b11-3", "question": "( ) for a quick decision, the chairman called for a vote. ① Anxious ② He is anxious ③ His being anxious ④ With being anxious", "answer": "① Anxious", "explanation": "Being anxious for … の Being が省略された形。" },
+        { "id": "b11-4", "question": "( ) the fact that this box will last for at least three months, ... ① Considered ② Given ③ Providing ④ Thinking", "answer": "② Given", "explanation": "Given 〜＝〜を考慮すると（慣用の分詞）。" },
+        { "id": "b11-5", "question": "Rowing down the Arakawa River, ( ). ① dangerous rocks began to appear ② there were dangerous rocks to be seen ③ we saw dangerous rocks ④ dangerous rocks could be seen", "answer": "③ we saw dangerous rocks", "explanation": "row の主語＝we。ボートを漕ぐのは人。" },
+        { "id": "b11-6", "question": "A bad habit, ( ), cannot easily be got rid of. ① if forming ② every formed ③ on forming ④ once formed", "answer": "④ once formed", "explanation": "once (it is) formed＝いったん身についてしまうと（受動）。" },
+        { "id": "b11-7", "question": "( ) by the horrible sight, he collapsed on the spot. ① Shocking ② Being shocked ③ Having shocked ④ To be shocked", "answer": "② Being shocked", "explanation": "受動の分詞構文（衝撃を受けて）。" },
+        { "id": "b11-8", "question": "Strictly ( ), history does not repeat itself. ① speak ② speaking ③ spoken ④ to speak", "answer": "② speaking", "explanation": "strictly speaking＝厳密に言えば（慣用の分詞構文）。" },
+        { "id": "b11-9", "question": "( ) about the purpose of her visit by the immigration officer, she replied, \"Sightseeing.\" ① Asked ② Informed ③ Talking ④ Thinking", "answer": "① Asked", "explanation": "受動（尋ねられて）。ask O about 〜 の受動。" }
+      ]
+    },
+    {
+      "id": "eng-add12",
+      "title": "追加12 — 強調構文・It〜that / 慣用",
+      "cards": [
+        { "id": "b12-1", "question": "It was only after the incident that she realized the danger she was in.", "answer": "彼女が自分の置かれた危険に気づいたのは、その出来事の後になってからだった。", "explanation": "It is 〜 that … の強調構文（副詞句を強調）。" },
+        { "id": "b12-2", "question": "It ( ) a year before I began to understand their unusual customs. ① was ② by the time ③ a year ④ not until", "answer": "① was", "explanation": "It was 〜 before S V＝…するまで〜（時間）かかった。" },
+        { "id": "b12-3", "question": "It was ( ) the Ice Age that the saber-toothed tiger became extinct. （① It was while ② It was during ③ While there was ④ When there was）", "answer": "during（It was during the Ice Age that 〜）", "explanation": "強調構文。during＋名詞（期間）。" },
+        { "id": "b12-4", "question": "Though I am tired, I will go if ( necessary ).", "answer": "necessary", "explanation": "if (it is) necessary＝必要なら。〈S＋be〉の省略。" },
+        { "id": "b12-5", "question": "The view, ( once ) seen, can never be forgotten.", "answer": "once", "explanation": "once (it is) seen＝いったん見ると。〈S＋be〉の省略。" },
+        { "id": "b12-6", "question": "Intimacy is no excuse for rough manners, though the majority of us seem to think ( ). ① it is ② it does ③ they are ④ they do", "answer": "① it is", "explanation": "think (that) it is (an excuse)。it＝intimacy。" },
+        { "id": "b12-7", "question": "( ), deprived of oxygen, the brain dies. ① Never ② Not ③ Sometimes ④ Once", "answer": "④ Once", "explanation": "Once (it is) deprived of oxygen＝いったん酸素を奪われると。" },
+        { "id": "b12-8", "question": "Cold chicken is delicious ( ) with salad. ① when eaten with ② when eating with ③ with eating ④ with eaten", "answer": "① when eaten with", "explanation": "when (it is) eaten＝食べられるとき（受動）。" },
+        { "id": "b12-9", "question": "What is it ( ) he wants to do first of all? ① that ② what ③ when ④ why", "answer": "① that", "explanation": "疑問詞の強調構文 What is it that 〜?。" },
+        { "id": "b12-10", "question": "It was when the exam was close at hand that my brother started studying.", "answer": "兄が勉強を始めたのは、試験が間近に迫ったときだった。", "explanation": "強調構文（時を表す副詞節を強調）。close at hand＝間近に。" },
+        { "id": "b12-11", "question": "This is the very watch that I have been looking for.", "answer": "これはまさに私がずっと探していた腕時計だ。", "explanation": "the very＋名詞＝まさにその〜（強調）。" }
+      ]
+    },
+    {
+      "id": "eng-add13",
+      "title": "追加13 — 倒置",
+      "cards": [
+        { "id": "b13-1", "question": "So numerous were the family's properties that they cannot name them all.", "answer": "その一家の財産はあまりに多かったので、彼らはそれらをすべて挙げることはできない。", "explanation": "So＋形容詞が文頭→倒置（were the properties）。so … that ～。" },
+        { "id": "b13-2", "question": "Little did he dream that he would never see his country again.", "answer": "二度と祖国を見ることはないだろうとは、彼は少しも思わなかった。", "explanation": "否定語 Little が文頭→倒置（did he dream）。" },
+        { "id": "b13-3", "question": "My mother was crazy about the Beatles, and so am I.", "answer": "母はビートルズに夢中だったが、私もそうだ。", "explanation": "so＋V＋S＝〜もまたそうだ。" },
+        { "id": "b13-4", "question": "I don't like reading this kind of material very much, and neither does Lucy.", "answer": "私はこの種の資料を読むのがあまり好きではないが、ルーシーも好きではない。", "explanation": "neither＋V＋S＝〜もまた…ない。" },
+        { "id": "b13-5", "question": "Seldom had I seen such a remarkable creature.", "answer": "私はそれほど見事な生き物をめったに見たことがなかった。", "explanation": "否定語 Seldom が文頭→倒置（had I seen）。" },
+        { "id": "b13-6", "question": "No sooner had she left the room than they started to gossip about her.", "answer": "彼女が部屋を出るやいなや、彼らは彼女のうわさをし始めた。", "explanation": "No sooner 〜 than …＝〜するやいなや…。文頭で倒置。" },
+        { "id": "b13-7", "question": "Into the water jumped the boy with a splash.", "answer": "水の中へ、その少年はバシャッと飛び込んだ。", "explanation": "方向の副詞句が文頭→倒置（jumped the boy）。" },
+        { "id": "b13-8", "question": "Among the audience were the Prime Minister and his wife.", "answer": "聴衆の中に、首相とその妻がいた。", "explanation": "場所の副詞句が文頭→倒置（were 〜）。" },
+        { "id": "b13-9", "question": "At the top of the hill stood the tiny chapel.", "answer": "丘の頂上に、小さな礼拝堂が建っていた。", "explanation": "場所の副詞句が文頭→倒置（stood the chapel）。" },
+        { "id": "b13-10", "question": "Happy are those who can do what they want to.", "answer": "したいことができる人は幸せだ。", "explanation": "補語 Happy が文頭→倒置（are those）。" }
+      ]
+    },
+    {
+      "id": "eng-add14",
+      "title": "追加14 — 否定表現（部分否定・準否定）",
+      "cards": [
+        { "id": "b14-1", "question": "Not all of the passengers were rescued.", "answer": "乗客の全員が救助されたわけではない。", "explanation": "not all＝部分否定（すべて〜とは限らない）。" },
+        { "id": "b14-2", "question": "He thinks of nothing but making money.", "answer": "彼は金もうけのことしか考えていない。", "explanation": "nothing but＝〜だけ、〜にすぎない。" },
+        { "id": "b14-3", "question": "His English is anything but correct.", "answer": "彼の英語は決して正確ではない。", "explanation": "anything but＝決して〜でない。" },
+        { "id": "b14-4", "question": "My dog does nothing but eat and sleep all day.", "answer": "私の犬は一日中、食べて寝てばかりいる。", "explanation": "do nothing but＋原形＝〜してばかりいる。" },
+        { "id": "b14-5", "question": "He never fails to get to school in time.", "answer": "彼は必ず時間どおりに学校に着く。", "explanation": "never fail to do＝必ず〜する。" },
+        { "id": "b14-6", "question": "They never meet each other without quarreling.", "answer": "彼らは会えば必ず口げんかをする。", "explanation": "never 〜 without …＝〜すれば必ず…する（二重否定）。" },
+        { "id": "b14-7", "question": "He is far from healthy.", "answer": "彼は決して健康ではない。", "explanation": "far from＝決して〜でない、〜どころではない。" },
+        { "id": "b14-8", "question": "Her beauty is beyond description.", "answer": "彼女の美しさは言葉では言い表せない。", "explanation": "beyond description＝言葉にできないほどの。" },
+        { "id": "b14-9", "question": "Today no country is free from foreign influence.", "answer": "今日、外国の影響を免れている国はない。", "explanation": "free from＝〜がない、〜を免れて。" },
+        { "id": "b14-10", "question": "It was not until the teacher told them the answer that the students understood the question.", "answer": "生徒たちがその問題を理解したのは、先生が答えを教えてくれて初めてだった。", "explanation": "not until 〜 の強調構文（〜して初めて…）。" }
+      ]
+    },
+    {
+      "id": "eng-add15",
+      "title": "追加15 — 比較",
+      "cards": [
+        { "id": "b15-1", "question": "No dog is as lovely as mine.", "answer": "私の犬ほどかわいい犬はいない。", "explanation": "No 〜 as … as ＝最上級の意味。" },
+        { "id": "b15-2", "question": "This job is not as easy as it looks.", "answer": "この仕事は、見かけほど簡単ではない。", "explanation": "not as … as＝〜ほど…でない。" },
+        { "id": "b15-3", "question": "He is not so strong as he used to be.", "answer": "彼は以前ほど強くない。", "explanation": "used to be＝以前は〜だった。" },
+        { "id": "b15-4", "question": "We sometimes wonder whether they were as happy as we are now.", "answer": "私たちは時々、彼らが今の私たちと同じくらい幸せだったのだろうかと思う。", "explanation": "as … as の比較。" },
+        { "id": "b15-5", "question": "This problem is not so easy to solve as you think.", "answer": "この問題は、あなたが思うほど解くのが簡単ではない。", "explanation": "not so … as＝〜ほど…でない。" },
+        { "id": "b15-6", "question": "It is almost as disastrous to win a war as to lose one.", "answer": "戦争に勝つことは、負けるのとほとんど同じくらい悲惨だ。", "explanation": "as … as で二つの不定詞を比較。" },
+        { "id": "b15-7", "question": "A man's worth is to be estimated not so much by what he has ( as ) by what he is.", "answer": "as（not so much A as B）", "explanation": "not so much A as B＝AというよりむしろB。" },
+        { "id": "b15-8", "question": "He is as great a scientist as ever lived.", "answer": "彼は、これまでに存在した中でも最も偉大な科学者だ。", "explanation": "as 〜 as ever lived＝古今まれにみる〜。語順 as great a scientist に注意。" },
+        { "id": "b15-9", "question": "Hearing is just as important as speaking in English conversation.", "answer": "英会話では、聞くことは話すことと同じくらい重要だ。", "explanation": "just as … as＝ちょうど同じくらい…。" },
+        { "id": "b15-10", "question": "There were three times as many applicants as we expected.", "answer": "私たちが予想した3倍の応募者がいた。", "explanation": "倍数＋as many 〜 as＝…の何倍の〜。" },
+        { "id": "b15-11", "question": "He isn't as good a cook as his father.", "answer": "彼は父親ほど料理が上手ではない。", "explanation": "as good a cook as の語順（as＋形容詞＋a＋名詞）。" },
+        { "id": "b15-12", "question": "Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome while trying to succeed.", "answer": "成功は、人生で到達した地位によってよりも、成功しようとする過程で乗り越えた障害によって測られるべきだ。", "explanation": "not so much A as B。be to be measured＝測られるべき。" },
+        { "id": "b15-13", "question": "He has three times as many books as you.", "answer": "彼はあなたの3倍の本を持っている。", "explanation": "倍数表現。" },
+        { "id": "b15-14", "question": "Nothing is ( more important ) than health.", "answer": "more important（比較級で最上級の意味）", "explanation": "Nothing is 比較級 than 〜＝〜ほど…なものはない。" },
+        { "id": "b15-15", "question": "Of the two boys, he is the ( taller ).", "answer": "the taller", "explanation": "2者の比較は the＋比較級。" }
+      ]
+    },
+    {
+      "id": "eng-add16",
+      "title": "追加16 — 名詞・代名詞（空所補充）",
+      "cards": [
+        { "id": "b16-1", "question": "Let's take a taxi. ( ) is a long way to the railway station.", "answer": "It", "explanation": "距離を表す it。" },
+        { "id": "b16-2", "question": "Japan has ( ) oil and is therefore almost entirely dependent on imports.", "answer": "little", "explanation": "oil は不可算。little＝ほとんどない。" },
+        { "id": "b16-3", "question": "( ) you can do for my sick mother would be appreciated.", "answer": "Anything", "explanation": "肯定文で「何でも」。" },
+        { "id": "b16-4", "question": "I have left my umbrella behind on the bus, so I have to buy a new ( ).", "answer": "one", "explanation": "同種の不特定物を指す one（＝an umbrella）。" },
+        { "id": "b16-5", "question": "He is ( ) of a musician.", "answer": "something", "explanation": "something of a 〜＝ちょっとした〜。" },
+        { "id": "b16-6", "question": "( ) are fond of it, and ( ) not.", "answer": "Some / others", "explanation": "Some 〜, others …＝〜する人もいれば、…する人もいる。" },
+        { "id": "b16-7", "question": "I'm staying here for ( ) a few weeks.", "answer": "quite", "explanation": "quite a few＝かなり多くの。" },
+        { "id": "b16-8", "question": "( ) of the two stories ( ) interesting.", "answer": "Neither / is", "explanation": "neither は単数扱い（2つのうちどちらも〜ない）。" },
+        { "id": "b16-9", "question": "He gave me three ( ) ( ) ( ).", "answer": "pieces of advice", "explanation": "advice は不可算。数えるときは a piece of / pieces of。" },
+        { "id": "b16-10", "question": "Since I've just moved here, my house has ( ) furniture.", "answer": "little（no も可）", "explanation": "furniture は不可算。" },
+        { "id": "b16-11", "question": "In America, there is a good ( ) of giving presents on birthdays.", "answer": "custom", "explanation": "custom＝（社会的な）習慣。habit＝個人の癖。" },
+        { "id": "b16-12", "question": "He is in the ( ) of sitting up ( ) on the weekends.", "answer": "habit / late", "explanation": "be in the habit of doing＝〜する習慣がある。sit up late＝夜ふかしする。" },
+        { "id": "b16-13", "question": "Jane has ( ) ( ) ( ) a new boy in her class at school.", "answer": "made friends with", "explanation": "make friends with＝〜と友達になる（friends は複数形）。" },
+        { "id": "b16-14", "question": "My view was different from ( ) as to what should be done.", "answer": "his", "explanation": "所有代名詞 his（＝his view）。" },
+        { "id": "b16-15", "question": "Can you tell me the ( ) between rice grown in Japan and American ( )?", "answer": "difference / rice", "explanation": "the difference between A and B。rice は不可算（反復）。" }
+      ]
+    },
+    {
+      "id": "eng-add17",
+      "title": "追加17 — 数量詞・名詞（4択）",
+      "cards": [
+        { "id": "b17-1", "question": "I've heard so ( ) news about the scandal that I'm sick of it. ① few ② little ③ many ④ much", "answer": "④ much", "explanation": "news は不可算→much。" },
+        { "id": "b17-2", "question": "He had to carry ( ) from his house to the station. ① much luggage ② so many luggage ③ three pieces of luggages ④ many luggage", "answer": "① much luggage", "explanation": "luggage は不可算（複数形にしない）。" },
+        { "id": "b17-3", "question": "In Africa today there are many people who do not have enough food, ( ), and shelter. ① cloth ② clothing ③ wear ④ coat", "answer": "② clothing", "explanation": "clothing＝衣類（不可算の総称）。" },
+        { "id": "b17-4", "question": "When the author of this computer virus is captured, ( ) are they will be young men. ① chances ② conditions ③ reasons ④ opportunities", "answer": "① chances", "explanation": "Chances are (that) 〜＝たぶん〜だろう。" },
+        { "id": "b17-5", "question": "If you hire a lawyer, you have to pay a ( ). ① money ② expense ③ fee ④ fare", "answer": "③ fee", "explanation": "fee＝（専門家への）報酬・料金。fare＝運賃。" },
+        { "id": "b17-6", "question": "Most department stores are crowded with ( ) on Sundays. ① guests ② clients ③ customers ④ passengers", "answer": "③ customers", "explanation": "店の客＝customers。" },
+        { "id": "b17-7", "question": "Snowdrifts have been known to cover ( ). ① three stories buildings ② three-story buildings ③ stories of three buildings ④ three of story buildings", "answer": "② three-story buildings", "explanation": "数詞-単数名詞をハイフンで結び形容詞化（three-story）。" },
+        { "id": "b17-8", "question": "( ) number of people attending the lecture was much larger than I had expected. ① A ② The ③ Any ④ Some", "answer": "② The", "explanation": "the number of＝〜の数（単数扱い）。a number of＝多くの。" },
+        { "id": "b17-9", "question": "Some trees grow better in the mountains than ( ). ① another ② one another ③ others ④ some other", "answer": "③ others", "explanation": "不特定の複数「他のもの」＝others。" },
+        { "id": "b17-10", "question": "I spent 30 minutes on my assignment, and I need ( ) 30 minutes to finish it. ① other ② more ③ most ④ another", "answer": "④ another", "explanation": "another＋複数（期間・数量のまとまり）＝もう〜。" },
+        { "id": "b17-11", "question": "A: Did you answer any of the five questions? B: Yes. I found ( ) of them difficult. ① neither ② every ③ either ④ none", "answer": "④ none", "explanation": "3つ以上で「どれも〜ない」＝none。" },
+        { "id": "b17-12", "question": "( ) of the four employees would make a good supervisor. ① Neither ② Either ③ Any ④ Both", "answer": "③ Any", "explanation": "3つ以上から「どれでも」＝any。" },
+        { "id": "b17-13", "question": "He was ( ) with fear. ① beside himself ② afraid ③ amazed ④ resigned", "answer": "① beside himself", "explanation": "beside oneself (with)＝我を忘れて。" },
+        { "id": "b17-14", "question": "They have two daughters. One is still single, and ( ) is abroad. ① other ② another ③ the other ④ the another", "answer": "③ the other", "explanation": "2つのうち、一方は one、残りは the other。" },
+        { "id": "b17-15", "question": "My father used to smoke during meals. I couldn't ( ). ① allow his bad habits ② allow his that bad habit ③ put up with that bad habit of him ④ stand that bad habit of his", "answer": "④ stand that bad habit of his", "explanation": "二重所有格は that bad habit of his（of him は不可）。stand＝我慢する。" }
+      ]
+    },
+    {
+      "id": "eng-add18",
+      "title": "追加18 — 関係詞（Lesson9）",
+      "cards": [
+        { "id": "b18-1", "question": "In Scotland there is a mysterious dark lake, ( ) depth has never been measured. ① whose ② what ③ by which ④ that", "answer": "① whose", "explanation": "所有格の関係代名詞（the lake's depth → whose depth）。" },
+        { "id": "b18-2", "question": "Recycling is the process ( ) materials are given a second life. ① by which ② that ③ in that ④ which", "answer": "① by which", "explanation": "by the process（〜によって）→ by which。後ろが完全な文。" },
+        { "id": "b18-3", "question": "I will never forget the days ( ) I spent in Kobe. ① to which ② in which ③ when ④ which", "answer": "④ which", "explanation": "spent の目的語が欠けている→目的格 which（that も可）。" },
+        { "id": "b18-4", "question": "He is a man ( ) I supposed was incapable of such cruelty. ① whom ② who ③ whose ④ which", "answer": "② who", "explanation": "I supposed は挿入。was の主語が必要→主格 who。" },
+        { "id": "b18-5", "question": "On weekends, I usually go to a nearby park, ( ) a famous architect laid out in the Meiji era.", "answer": "which（that も可、非制限用法なら which）", "explanation": "laid out の目的語が欠ける→目的格の関係代名詞。" }
+      ]
+    },
+    {
+      "id": "eng-add19",
+      "title": "追加19 — 誤り指摘（名詞・数量）",
+      "cards": [
+        { "id": "b19-1", "question": "【誤りを1つ】I ①have bought ②some ③furnitures ④for ⑤my newly-built house.", "answer": "③ furnitures → furniture", "explanation": "furniture は不可算。複数形にしない。" },
+        { "id": "b19-2", "question": "【誤りを1つ】You ①can get all the ②informations you need ③about this university, if you ④search across the home page.", "answer": "② informations → information", "explanation": "information は不可算。" },
+        { "id": "b19-3", "question": "【誤りを1つ】①I respect my English teacher ②more than any other person ③in the whole world because of ④the precious advices she gave to me.", "answer": "④ advices → advice", "explanation": "advice は不可算。" },
+        { "id": "b19-4", "question": "【誤りを1つ】①Enjoy your vacation! I ②hope you have ③a good weather.", "answer": "③ a good weather → good weather", "explanation": "weather は不可算。冠詞 a を付けない。" },
+        { "id": "b19-5", "question": "【誤りを1つ】I want to have ②various kinds of ③friend, so that I can broaden my outlook.", "answer": "③ friend → friends", "explanation": "various kinds of の後は複数形。" },
+        { "id": "b19-6", "question": "【誤りを1つ】The jails are ①so ②crowded that the police ③does not arrest people ④for minor offenses.", "answer": "③ does → do", "explanation": "the police は複数扱い。" },
+        { "id": "b19-7", "question": "【誤りを1つ】Statistics ①are the science which ②deals ③with the collection, classification, and analysis of ④numerical data.", "answer": "① are → is", "explanation": "「統計学」の意味の statistics は単数扱い。" },
+        { "id": "b19-8", "question": "【誤りを1つ】One of the ①reason why women live longer than men ②is their ability to make close friends.", "answer": "① reason → reasons", "explanation": "one of the ＋複数名詞。" },
+        { "id": "b19-9", "question": "【誤りを1つ】It is amazing how ②much computers have come down ③in price over the past few ④year.", "answer": "④ year → years", "explanation": "few＋複数名詞（years）。" }
+      ]
     }
   ]
 }
