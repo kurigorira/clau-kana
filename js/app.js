@@ -192,9 +192,12 @@
         onclick: function () { session.revealed = true; renderQuizCard(session); }
       }, ["答えを見る"]));
     } else {
+      var hasAnswer = card.answer && String(card.answer).trim() !== "";
       children.push(el("div", { class: "qa-answer" }, [
         el("span", { class: "qa-label", text: "答え" }),
-        el("p", { class: "qa-answer-text", text: card.answer }),
+        hasAnswer
+          ? el("p", { class: "qa-answer-text", text: card.answer })
+          : el("p", { class: "qa-answer-text muted", text: "（このカードにはPDFの解答が付いていません）" }),
         card.explanation ? el("p", { class: "qa-explanation", text: "💡 " + card.explanation }) : null
       ]));
 
@@ -364,23 +367,30 @@
       });
       docNodes.push(problemSection);
 
-      // 解答
+      // 解答（PDFに解答があるものだけ。問題番号と揃うよう value を明示）
+      function hasAns(card) { return card.answer && String(card.answer).trim() !== ""; }
       if (showAnswers) {
-        var answerSection = el("section", { class: "print-section print-answers" }, [
-          el("h1", { class: "print-title", text: "解答・解説" })
-        ]);
-        decks.forEach(function (deck) {
-          answerSection.appendChild(el("h2", { class: "print-deck", text: deck.title }));
-          var ol = el("ol", { class: "print-list" }, []);
-          (deck.cards || []).forEach(function (card) {
-            ol.appendChild(el("li", { class: "print-item" }, [
-              el("span", { class: "print-answer", text: card.answer }),
-              card.explanation ? el("span", { class: "print-explanation", text: "　" + card.explanation }) : null
-            ]));
-          });
-          answerSection.appendChild(ol);
+        var decksWithAns = decks.filter(function (deck) {
+          return (deck.cards || []).some(hasAns);
         });
-        docNodes.push(answerSection);
+        if (decksWithAns.length) {
+          var answerSection = el("section", { class: "print-section print-answers" }, [
+            el("h1", { class: "print-title", text: "解答" })
+          ]);
+          decksWithAns.forEach(function (deck) {
+            answerSection.appendChild(el("h2", { class: "print-deck", text: deck.title }));
+            var ol = el("ol", { class: "print-list" }, []);
+            (deck.cards || []).forEach(function (card, i) {
+              if (!hasAns(card)) return;
+              ol.appendChild(el("li", { class: "print-item", value: i + 1 }, [
+                el("span", { class: "print-answer", text: card.answer }),
+                card.explanation ? el("span", { class: "print-explanation", text: "　" + card.explanation }) : null
+              ]));
+            });
+            answerSection.appendChild(ol);
+          });
+          docNodes.push(answerSection);
+        }
       }
 
       app.appendChild(toolbar);

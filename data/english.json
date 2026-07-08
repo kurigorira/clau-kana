@@ -1,6 +1,5 @@
 {
   "subject": "英語",
-  "_note": "答え（和訳・解答）はAI作成の参考訳です。予備校の公式解答に差し替え可能です。",
   "decks": [
     {
       "id": "eng-lesson1",
@@ -9,86 +8,72 @@
         {
           "id": "l1-1",
           "question": "We stayed at a Japanese-style hotel.",
-          "answer": "私たちは和風の旅館に泊まった。",
-          "explanation": "stay は自動詞（第1文型 SV）。"
+          "answer": ""
         },
         {
           "id": "l1-2",
           "question": "She eats everything she wants, but can stay thin.",
-          "answer": "彼女は食べたいものを何でも食べるが、それでも痩せたままでいられる。",
-          "explanation": "stay + 形容詞（thin）＝第2文型 SVC。"
+          "answer": ""
         },
         {
           "id": "l1-3",
           "question": "A lot of debris remained in the city.",
-          "answer": "多くの瓦礫（がれき）がその都市に残っていた。",
-          "explanation": "remain は自動詞（残っている）。debris＝瓦礫。"
+          "answer": ""
         },
         {
           "id": "l1-4",
           "question": "During the meeting, the door stood open.",
-          "answer": "会議の間、ドアは開いたままになっていた。",
-          "explanation": "stand + 形容詞（open）＝第2文型 SVC（〜の状態でいる）。"
+          "answer": ""
         },
         {
           "id": "l1-5",
           "question": "In many cases, students with a strong interest in science tend to study abroad.",
-          "answer": "多くの場合、科学に強い関心を持つ学生は留学する傾向がある。",
-          "explanation": "tend to do＝〜する傾向がある。"
+          "answer": ""
         },
         {
           "id": "l1-6",
           "question": "A key to the solution to the mystery remains unknown.",
-          "answer": "その謎を解く鍵は依然として分かっていない。",
-          "explanation": "remain + 形容詞（unknown）＝第2文型（依然として〜のままだ）。"
+          "answer": ""
         },
         {
           "id": "l1-7",
           "question": "In 1945 Alexander Fleming, the man who discovered penicillin, warned that overuse of his miracle drug could make bacteria immune to it.",
-          "answer": "1945年、ペニシリンを発見した人物であるアレクサンダー・フレミングは、彼の奇跡の薬を使いすぎると細菌がその薬に対して耐性を持つようになりかねないと警告した。",
-          "explanation": "千葉大 2017。make O C（make bacteria immune）。immune to＝〜に免疫がある／耐性がある。"
+          "answer": ""
         },
         {
           "id": "l1-8",
           "question": "Every family is different, with different personalities, customs, and ways of thinking. There is no one “right” kind of family. But whether parents are strict or lenient, home has to be a place of love, encouragement, and acceptance of feelings and individuality for kids to feel emotionally safe and secure. Most of us want such an atmosphere to exist in our homes, but with today’s stresses this often seems harder and harder to achieve.",
-          "answer": "どの家族もそれぞれ異なり、性格も習慣も考え方も違う。「正しい」家族の形などというものは一つもない。しかし、親が厳しかろうと甘かろうと、子どもが情緒的に安全で安心だと感じられるためには、家庭は愛情と励まし、そして感情や個性を受け入れる場でなければならない。私たちの多くは家庭にそうした雰囲気があってほしいと願っているが、今日のストレスのもとでは、それを実現するのはますます難しくなっているように思えることが多い。",
-          "explanation": "福岡大 2011。whether A or B＝AであろうとBであろうと。for kids to feel…＝意味上の主語付き不定詞。"
+          "answer": ""
         },
         {
           "id": "l1-9",
           "question": "She repaired the computer.",
-          "answer": "彼女はそのコンピューターを修理した。",
-          "explanation": "repair は他動詞（直後に目的語）。"
+          "answer": ""
         },
         {
           "id": "l1-10",
           "question": "My father maintained that I was wrong.",
-          "answer": "父は私が間違っていると主張した。",
-          "explanation": "maintain that …＝〜だと主張する。"
+          "answer": ""
         },
         {
           "id": "l1-11",
           "question": "This event will afford you an opportunity to get acquainted with foreign people.",
-          "answer": "この催しはあなたに外国の人々と知り合う機会を与えてくれるだろう。",
-          "explanation": "afford O₁ O₂＝O₁にO₂を与える（第4文型）。get acquainted with＝〜と知り合う。"
+          "answer": ""
         },
         {
           "id": "l1-12",
           "question": "It took me a while to understand him.",
-          "answer": "彼を理解するのにしばらく時間がかかった。",
-          "explanation": "It takes 人 時間 to do＝（人が）〜するのに…かかる。a while＝しばらく。"
+          "answer": ""
         },
         {
           "id": "l1-13",
           "question": "From a parent’s point of view, the most important and exciting thing about language acquisition is probably just that it allows their children to talk to them. But exactly what does it take to be able to talk? And how do children get from the point where they can’t do it to the point where they can?",
-          "answer": "親の立場から見れば、言語習得について最も重要でわくわくする点は、おそらく単に、それによって子どもが自分たちに話しかけられるようになるということだ。しかし、話せるようになるには正確には何が必要なのだろうか。そして子どもは、それができない段階から、できる段階へとどのようにして到達するのだろうか。",
-          "explanation": "allow O to do＝Oが〜するのを可能にする。what does it take to do＝〜するには何が必要か。"
+          "answer": ""
         },
         {
           "id": "l1-14",
           "question": "A good writer can make ordinary things like leaves have symbolic meanings in a particular way.",
-          "answer": "優れた書き手は、葉のようなありふれたものに、独特の仕方で象徴的な意味を持たせることができる。",
-          "explanation": "make O 原形（have）＝使役（Oに〜させる）。"
+          "answer": ""
         }
       ]
     },
@@ -99,62 +84,52 @@
         {
           "id": "l2-1",
           "question": "The story changed as it was passed down through generations.",
-          "answer": "その話は、何世代にもわたって語り継がれるうちに変化した。",
-          "explanation": "change＝自動詞（変化する）。as＝〜するにつれて。"
+          "answer": ""
         },
         {
           "id": "l2-2",
           "question": "The story changed his entire perspective on life.",
-          "answer": "その話は、人生に対する彼の見方をすっかり変えた。",
-          "explanation": "change＝他動詞（〜を変える）。"
+          "answer": ""
         },
         {
           "id": "l2-3",
           "question": "He prepared for the solo trip to the mountains.",
-          "answer": "彼は単独の登山旅行に備えた。",
-          "explanation": "prepare for＝〜に備える（自動詞）。"
+          "answer": ""
         },
         {
           "id": "l2-4",
           "question": "The previous failure prepared him for the risks of the solo trip.",
-          "answer": "以前の失敗が、彼に単独行の危険に対する心構えをさせた。",
-          "explanation": "prepare O for＝Oに〜の備えをさせる（他動詞）。"
+          "answer": ""
         },
         {
           "id": "l2-5",
           "question": "He developed as a professional artist during his years in Paris.",
-          "answer": "彼はパリで過ごした年月の間に、プロの芸術家として成長した。",
-          "explanation": "develop＝自動詞（成長・発達する）。"
+          "answer": ""
         },
         {
           "id": "l2-6",
           "question": "The harsh environment of the desert developed his survival skills.",
-          "answer": "砂漠の厳しい環境が、彼の生き延びるための技術を発達させた。",
-          "explanation": "develop＝他動詞（〜を発達させる）。"
+          "answer": ""
         },
         {
           "id": "l2-7",
           "question": "The long-term effects of this new medicine on the human body appear significant.",
-          "answer": "この新薬が人体に及ぼす長期的な影響は、重大なものであるように思われる。",
-          "explanation": "appear + 形容詞＝〜のように見える（第2文型 SVC）。"
+          "answer": ""
         },
         {
           "id": "l2-8",
           "question": "The sudden change in the project schedule seemed to the experienced staff unnecessary.",
-          "answer": "プロジェクトの予定の突然の変更は、経験豊富なスタッフには不要なものに思えた。",
-          "explanation": "seem to 人 C＝（人には）Cのように思える。to the experienced staff が挿入。"
+          "answer": ""
         },
         {
           "id": "l2-9",
           "question": "The local bakery kept the bread made with organic flour fresh in the display case.",
-          "answer": "地元のパン屋は、有機栽培の小麦粉で作ったパンを陳列ケースの中で新鮮に保っていた。",
-          "explanation": "keep O C（fresh）＝OをCに保つ。made with…は bread を後置修飾。"
+          "answer": ""
         },
         {
           "id": "l2-10",
           "question": "The boy found the dark corner under his bed scary during the house cleaning.",
-          "answer": "その少年は、家の掃除の最中に、ベッドの下の暗い隅を怖いと感じた。",
-          "explanation": "find O C（scary）＝OをCだと感じる／分かる。"
+          "answer": ""
         }
       ]
     },
@@ -165,26 +140,22 @@
         {
           "id": "l3-1",
           "question": "Interestingly, a computer is less likely to lie than humans. As Isaac Asimov says, part of the inhumanity of a computer is that once it is completely programmed and working smoothly, it is completely honest — unless, of course, it has been programmed to be dishonest.",
-          "answer": "興味深いことに、コンピューターは人間よりも嘘をつく可能性が低い。アイザック・アシモフが言うように、コンピューターの非人間的な部分の一つは、いったん完全にプログラムされて順調に動いていれば、コンピューターは完全に正直である、という点だ——もちろん、不正直であるようにプログラムされていない限りは。",
-          "explanation": "be less likely to do＝〜する可能性が低い。once＝いったん〜すると。unless＝〜でない限り。"
+          "answer": ""
         },
         {
           "id": "l3-2",
           "question": "Go to sleep with your blinds or curtains halfway open. That way, the natural light of the rising sun will send your brain a signal that it’s time to wake up. When the alarm goes off, you’ll already be half awake. Even better: Go to bed early enough so that, when the sun shines through your window, it’ll give you the recommended seven hours of sleep. If you maintain this routine, it’s likely that you can start relying on your biological clock rather than an alarm clock.",
-          "answer": "ブラインドやカーテンを半分開けたまま眠りにつきなさい。そうすれば、昇る太陽の自然光が、起きる時間だという合図をあなたの脳に送ってくれる。目覚まし時計が鳴るころには、あなたはすでに半分目覚めているだろう。さらに良いのは、太陽が窓から差し込むときに推奨される7時間の睡眠が確保できるよう、十分早く就寝することだ。この習慣を続ければ、目覚まし時計ではなく自分の体内時計に頼り始めることができるようになる可能性が高い。",
-          "explanation": "福岡大。with O 形容詞（付帯状況）。go off＝（目覚ましが）鳴る。rely on A rather than B＝BよりむしろAに頼る。"
+          "answer": ""
         },
         {
           "id": "l3-3",
           "question": "【整序英作文・1語不要】In your country, how many ( are / be / colors / said / they / to ) in a rainbow?",
-          "answer": "In your country, how many colors are said to be in a rainbow?（they が不要）",
-          "explanation": "be said to do＝〜だと言われている。how many colors を主語に。"
+          "answer": ""
         },
         {
           "id": "l3-4",
           "question": "【整序英作文】43% of the people surveyed in the study said ( wearing / glasses / makes / people / look ) more intelligent.",
-          "answer": "…said wearing glasses makes people look more intelligent.",
-          "explanation": "動名詞句 wearing glasses が主語。make O 原形（look）＝Oに〜させる。"
+          "answer": ""
         }
       ]
     },
@@ -195,44 +166,37 @@
         {
           "id": "l4-1",
           "question": "The rain made the road so slippery for drivers unfamiliar with the area that many accidents occurred.",
-          "answer": "雨のせいで道路は、その地域に不慣れな運転手にとって非常に滑りやすくなり、その結果多くの事故が起きた。",
-          "explanation": "make O C（slippery）＋ so … that ～（とても…なので～）。unfamiliar with the area は drivers を後置修飾。"
+          "answer": ""
         },
         {
           "id": "l4-2",
           "question": "Doctors warn that although the symptoms may disappear, the virus can remain in the body.",
-          "answer": "医師たちは、症状は消えるかもしれないが、ウイルスは体内に残り続けることがあると警告している。",
-          "explanation": "warn that …。although＝〜だけれども。can＝〜することがある（可能性）。"
+          "answer": ""
         },
         {
           "id": "l4-3",
           "question": "The taxes increased during the last decade remain a heavy burden on citizens.",
-          "answer": "この10年の間に引き上げられた税は、市民にとって依然として重い負担となっている。",
-          "explanation": "increased…は taxes を後置修飾する過去分詞（引き上げられた税）。動詞は remain。"
+          "answer": ""
         },
         {
           "id": "l4-4",
           "question": "Some research conducted from the 1940s to mid-1990s that used chimpanzees was imperfect.",
-          "answer": "1940年代から1990年代半ばにかけて行われた、チンパンジーを用いた研究の中には、不完全なものもあった。",
-          "explanation": "山形大。conducted… と関係詞 that used… が research を修飾。主語は Some research、動詞は was。"
+          "answer": ""
         },
         {
           "id": "l4-5",
           "question": "A bird that has been separated from its fellows from the day it hatched out of an egg can nevertheless build the kind of nest characteristic of its species.",
-          "answer": "卵からかえった日から仲間と引き離されてきた鳥でも、それにもかかわらず、その種に特有の種類の巣を作ることができる。",
-          "explanation": "characteristic of＝〜に特有の。nevertheless＝それにもかかわらず。"
+          "answer": ""
         },
         {
           "id": "l4-6",
           "question": "As most mothers know, an infant able to use the word “Daddy” may apply it on occasion to any male he sees.",
-          "answer": "たいていの母親が知っているように、「パパ」という言葉を使えるようになった幼児は、時として、目にする男性なら誰にでもその言葉を当てはめてしまうことがある。",
-          "explanation": "able to…は infant を後置修飾。apply A to B＝AをBに当てはめる。on occasion＝時折。"
+          "answer": ""
         },
         {
           "id": "l4-7",
           "question": "By early adulthood most of us will have become experts at reading other people’s intentions. We are so attuned to the inner thoughts and feelings of those around us that even professionals trained not to respond emotionally to the suffering of others find it difficult not to be moved.",
-          "answer": "成人初期までに、私たちの大半は他人の意図を読み取る達人になっているだろう。私たちは周囲の人々の内なる思考や感情に非常に敏感であるため、他人の苦しみに感情的に反応しないよう訓練された専門家でさえ、心を動かされずにいるのは難しいと感じる。",
-          "explanation": "will have become＝未来完了。be attuned to＝〜に敏感だ。so … that ～。find it difficult to do（形式目的語 it）。"
+          "answer": ""
         }
       ]
     },
@@ -243,26 +207,22 @@
         {
           "id": "l6-1",
           "question": "The purpose of sleep may be to help us remember what’s important by letting us forget what’s not.",
-          "answer": "睡眠の目的は、重要でないことを忘れさせることによって、重要なことを覚えておく手助けをすることなのかもしれない。",
-          "explanation": "三重大 2011。help O (to) do、let O do（使役）。what’s important／what’s not＝関係代名詞 what。"
+          "answer": ""
         },
         {
           "id": "l6-2",
           "question": "If two related kinds of speech are so close that speakers can have a conversation and understand each other, they are dialects of a single language.",
-          "answer": "関連する二つの言葉が、話し手同士が会話をして互いに理解し合えるほど近いのであれば、それらは一つの言語の方言である。",
-          "explanation": "大分大 2016。so … that ～（…なので～／～なほど…）。dialect＝方言。"
+          "answer": ""
         },
         {
           "id": "l6-3",
           "question": "He also began to compare the new animals he was seeing with ones from his own country.",
-          "answer": "彼はまた、自分が目にしている見慣れない動物を、自国の動物と比較し始めた。",
-          "explanation": "三重大 2012。compare A with B＝AをBと比較する。ones＝animals の反復を避ける代名詞。"
+          "answer": ""
         },
         {
           "id": "l6-4",
           "question": "For over a generation now, efforts to make decisions about care and treatment more patient-friendly have focused on getting patients and doctors to work together. Numerous research papers, conferences and advocacy organizations have been devoted to this topic of “shared decision-making.” But one thing has been missing in nearly all of these earnest efforts to encourage doctors to share the decision-making process. That is, ironically, the patient’s perspective.",
-          "answer": "もう一世代以上にわたって、ケアや治療に関する決定をより患者にやさしいものにしようとする取り組みは、患者と医師に協力させることに焦点を当ててきた。数多くの研究論文や会議、擁護団体が、この「共同意思決定」という主題に力を注いできた。しかし、医師に意思決定の過程を分かち合うよう促すこうした真剣な取り組みのほぼすべてにおいて、一つ欠けているものがあった。それは皮肉にも、患者の視点である。",
-          "explanation": "大阪医科薬科大。make O C（patient-friendly）。get O to do／encourage O to do＝Oに〜させる・促す。be devoted to＝〜に注がれる。"
+          "answer": ""
         }
       ]
     },
@@ -273,86 +233,72 @@
         {
           "id": "l7-1",
           "question": "If you think memory problems are the preserve of the elderly, forget it. Young people frequently struggle to remember things, too. A British study shows that men and women in their twenties regularly forget anything from why they entered the room to where they put their keys, while more than half struggle to find the right word at least once a week.",
-          "answer": "記憶の問題は高齢者だけのものだと思っているなら、それは忘れてほしい。若い人もまた、物事を思い出すのに頻繁に苦労している。あるイギリスの研究によれば、20代の男女は、なぜ部屋に入ったのかから鍵をどこに置いたかまで、あらゆることを日常的に忘れており、半数以上が少なくとも週に一度は適切な言葉が出てこなくて苦労しているという。",
-          "explanation": "兵庫医科大 2021。the preserve of＝〜の専有物・領分。from A to B＝AからBまで。while＝一方で。"
+          "answer": ""
         },
         {
           "id": "l7-2",
           "question": "Her experience as a volunteer prepared her to stay calm during the emergency.",
-          "answer": "ボランティアとしての経験のおかげで、彼女は緊急事態の間も冷静でいられた。",
-          "explanation": "prepare O to do＝Oが〜する備えをさせる。無生物主語は「〜のおかげで」と訳すと自然。"
+          "answer": ""
         },
         {
           "id": "l7-3",
           "question": "Winning the trust of the local people will take you a lot of patience.",
-          "answer": "地元の人々の信頼を勝ち取るには、多大な忍耐を要するだろう。",
-          "explanation": "動名詞句 Winning… が主語。take 人 物＝（人に）〜を要する。"
+          "answer": ""
         },
         {
           "id": "l7-4",
           "question": "She told me to come in and have a cup of tea.",
-          "answer": "彼女は私に、中に入ってお茶を一杯飲むようにと言った。",
-          "explanation": "tell O to do＝Oに〜するように言う。"
+          "answer": ""
         },
         {
           "id": "l7-5",
           "question": "The end of law is not to abolish or restrain, but to preserve and enlarge freedom.",
-          "answer": "法の目的は、自由を廃止したり制限したりすることではなく、自由を守り拡大することである。",
-          "explanation": "ここでの end＝目的。not A but B＝AではなくB。"
+          "answer": ""
         },
         {
           "id": "l7-6",
           "question": "The importance of mathematics in our culture appears unbelievable to many people. This idea is quite understandable but mistaken, and results from a very common conception of what mathematics really is.",
-          "answer": "私たちの文化における数学の重要性は、多くの人々にとって信じがたいものに思える。この考えはもっともなものではあるが誤っており、数学とは本当は何なのかについてのごくありふれた捉え方から生じている。",
-          "explanation": "大阪公立大 2021。appear C＝Cに見える。result from＝〜から生じる。what mathematics really is＝関係代名詞 what。"
+          "answer": ""
         },
         {
           "id": "l7-7",
           "question": "A situation can feel more psychologically or emotionally distant when viewed through a foreign language lens. Because emotions play a key role in how we make decisions, people are often less biased and more consistent when making choices in the less emotional foreign language.",
-          "answer": "ある状況は、外国語というレンズを通して見ると、心理的・感情的により距離があるように感じられることがある。感情は私たちの意思決定の仕方において重要な役割を果たすため、感情を伴いにくい外国語で選択を行うとき、人はしばしば偏りが少なく、より一貫した判断をする。",
-          "explanation": "when viewed／when making＝接続詞＋分詞（主語＋be の省略）。play a role in＝〜で役割を果たす。"
+          "answer": ""
         },
         {
           "id": "l7-8",
           "question": "（問）What is important is what you do for and with money.",
-          "answer": "重要なのは、お金のために、またお金を使って何をするかということだ。",
-          "explanation": "What is important（重要なこと）が主語、what you do…（〜すること）が補語。どちらも関係代名詞 what。for and with money＝お金のために、そしてお金を使って。"
+          "answer": ""
         },
         {
           "id": "l7-9",
           "question": "“Wash your hands!” It sounds straightforward, but it isn’t at all. An observational study of more than 3,000 people found 10% left public toilets without washing their hands at all, and even if they did, 33% didn’t use soap. This matters because, unfortunately, we can’t resist touching our faces, allowing viruses to spread easily from our hands.",
-          "answer": "「手を洗いなさい！」それは簡単なことのように聞こえるが、まったくそうではない。3,000人以上を対象とした観察研究によると、10%の人が手をまったく洗わずに公衆トイレを出ており、たとえ洗ったとしても33%は石けんを使わなかった。これが重要なのは、残念ながら私たちは顔を触るのを我慢できず、その結果ウイルスが手から容易に広がってしまうからである。",
-          "explanation": "福岡大-医 2018。not … at all＝まったく〜ない。can’t resist doing＝〜せずにはいられない。allowing…＝結果を表す分詞構文。"
+          "answer": ""
         },
         {
           "id": "l7-10",
           "question": "The smartphone has become so much a part of our daily life that we hardly realize how much we depend on it until we stop to think how difficult it would be to do without it.",
-          "answer": "スマートフォンは私たちの日常生活の一部になりすぎていて、それなしで済ますことがどれほど難しいかを立ち止まって考えてみるまで、自分がどれほどそれに依存しているかにほとんど気づかない。",
-          "explanation": "so … that ～。hardly＝ほとんど〜ない。stop to do＝立ち止まって〜する。do without＝〜なしで済ます。"
+          "answer": ""
         },
         {
           "id": "l7-11",
           "question": "Some pet owners claim that the dog’s trainability is evidence of that animal’s superior intelligence, but how easily a dog can learn to make the connection between a command (an action) and a reward has little to do with IQ.",
-          "answer": "ペットを飼っている人の中には、犬の訓練のしやすさはその動物の優れた知能の証拠だと主張する人もいるが、犬が命令（ある動作）と報酬とを結びつけることをどれほど簡単に学習できるかは、知能指数とはほとんど関係がない。",
-          "explanation": "関西学院大。how easily … の節が主語、動詞は has。have little to do with＝〜とほとんど関係がない。"
+          "answer": ""
         },
         {
           "id": "l7-12",
           "question": "The brain is often envisioned as something like a computer, and the body as its all-purpose tool. But a growing body of new research suggests that something more collaborative is going on — that we think not just with our brains, but with our bodies. A recent series of studies has shown that children can solve math problems better if they are told to use their hands while thinking. Another recent study suggested that stage actors remember their lines better when they are moving. And in one study published last year, a group of people asked to move their eyes in a specific pattern while puzzling through a logical problem were twice as likely to solve it.",
-          "answer": "脳はしばしばコンピューターのようなものとして、そして身体はその万能の道具として思い描かれる。しかし、増えつつある新たな研究は、もっと協働的な何かが起きていること——つまり私たちは脳だけでなく身体でも考えている、ということを示唆している。最近の一連の研究によれば、子どもは考えながら手を使うように言われると、数学の問題をよりうまく解くことができる。別の最近の研究は、舞台俳優は体を動かしているときの方がせりふをよく覚えていることを示唆した。そして昨年発表されたある研究では、論理問題に頭を悩ませている間に特定のパターンで目を動かすように言われた人々のグループは、その問題を解ける可能性が2倍高かった。",
-          "explanation": "名古屋大。a growing body of＝増えつつある（量の）。not just A but B。twice as … as＝2倍…。asked to…は people を後置修飾。"
+          "answer": ""
         },
         {
           "id": "l7-13",
           "question": "【整序・英作文】「彼らは20％割引をしてくれるので、私たちはその仕事を繁華街の小さな店にやってもらうことにした。」を英訳しなさい。",
-          "answer": "We decided to have the work done by the small shop downtown because they offer a 20% discount.",
-          "explanation": "東京大-医。have O done＝Oを〜してもらう（使役の受動）。downtown＝繁華街で（副詞）。"
+          "answer": ""
         },
         {
           "id": "l7-14",
           "question": "【英作文】「君には期待しているよ」を英語にしなさい。",
-          "answer": "I expect you to do well.",
-          "explanation": "expect O to do＝Oが〜することを期待する。do well＝うまくやる。"
+          "answer": ""
         }
       ]
     },
@@ -363,14 +309,12 @@
         {
           "id": "l9-1",
           "question": "Understanding evolutionary processes is important for recognizing how the human being has developed. The key in human evolution is our adaptability, which allows us to survive in very different environments. The environment shapes which parts of our genetic information will be influential in our development.",
-          "answer": "進化の過程を理解することは、人類がどのように発達してきたかを認識するうえで重要である。人類の進化の鍵は私たちの適応力であり、それによって私たちは非常に異なる環境でも生き延びることができる。環境は、私たちの遺伝情報のどの部分が私たちの発達に影響を及ぼすかを決定づける。",
-          "explanation": "信州大 2012。動名詞 Understanding… が主語。which＝非制限用法（そしてそれは）。shape＝形づくる・決定づける。"
+          "answer": ""
         },
         {
           "id": "l9-2",
           "question": "We get used to particular newspapers and magazines and often, after a while, come to take their typical content for granted. Some degree of familiarity with a particular paper or magazine is often necessary so that the reader who wants to get the information can understand it with ease.",
-          "answer": "私たちは特定の新聞や雑誌に慣れ、しばらくすると、その典型的な内容を当然のものとみなすようになることが多い。情報を得ようとする読者がそれを容易に理解できるためには、特定の新聞や雑誌にある程度なじんでいることがしばしば必要である。",
-          "explanation": "get used to＝〜に慣れる。come to do＝〜するようになる。take A for granted＝Aを当然と思う。so that … can ～＝〜できるように。"
+          "answer": ""
         }
       ]
     },
@@ -381,50 +325,42 @@
         {
           "id": "a1-1",
           "question": "The girl called Mary.",
-          "answer": "その少女はメアリーに電話をかけた。",
-          "explanation": "この called は動詞（call＝電話する）の過去形。次の(2)との対比に注意。"
+          "answer": ""
         },
         {
           "id": "a1-2",
           "question": "The girl called Mary is my sister.",
-          "answer": "メアリーと呼ばれているその少女は、私の妹だ。",
-          "explanation": "called Mary は The girl を後置修飾する過去分詞（〜と呼ばれる）。動詞は is。"
+          "answer": ""
         },
         {
           "id": "a1-3",
           "question": "For elderly people, interacting with animals has several medical benefits.",
-          "answer": "お年寄りにとって、動物と触れ合うことにはいくつかの医学的な利点がある。",
-          "explanation": "動名詞句 interacting… が主語（動詞は has）。"
+          "answer": ""
         },
         {
           "id": "a1-4",
           "question": "At the top of the mountain stood a house.",
-          "answer": "山の頂上に一軒の家が建っていた。",
-          "explanation": "場所を表す副詞句が文頭に出たための倒置（V＋S）。主語は a house。"
+          "answer": ""
         },
         {
           "id": "a1-5",
           "question": "The school built two hundred years ago produced a lot of excellent students.",
-          "answer": "200年前に建てられたその学校は、多くの優秀な生徒を輩出した。",
-          "explanation": "built two hundred years ago が The school を後置修飾する過去分詞。動詞は produced。"
+          "answer": ""
         },
         {
           "id": "a1-6",
           "question": "Thanks to your kind advice, our team was able to overcome the difficulty.",
-          "answer": "あなたの親切な助言のおかげで、私たちのチームはその困難を乗り越えることができた。",
-          "explanation": "thanks to＝〜のおかげで。be able to do＝〜できた。"
+          "answer": ""
         },
         {
           "id": "a1-7",
           "question": "In order to obtain maximum use from water, we must continually purify it.",
-          "answer": "水を最大限に活用するためには、私たちは絶えず水を浄化しなければならない。",
-          "explanation": "in order to do＝〜するために。purify＝浄化する。"
+          "answer": ""
         },
         {
           "id": "a1-8",
           "question": "Speaking only one language can be compared to living in a room with no windows and no doors.",
-          "answer": "一つの言語しか話さないことは、窓もドアもない部屋で暮らすことにたとえられる。",
-          "explanation": "動名詞句が主語。compare A to B＝AをBにたとえる（受動態 be compared to）。"
+          "answer": ""
         }
       ]
     },
@@ -435,50 +371,42 @@
         {
           "id": "a2-1",
           "question": "The boy in this photo became a meteorologist.",
-          "answer": "この写真の少年は気象学者になった。",
-          "explanation": "become C＝第2文型 SVC。meteorologist＝気象学者。"
+          "answer": ""
         },
         {
           "id": "a2-2",
           "question": "On the street my father encountered a famous athlete.",
-          "answer": "通りで、父は有名な運動選手に出くわした。",
-          "explanation": "encounter＝〜に出くわす（他動詞、SVO）。"
+          "answer": ""
         },
         {
           "id": "a2-3",
           "question": "The news of his success in business made his colleagues happy.",
-          "answer": "彼の事業での成功の知らせは、同僚たちを喜ばせた。",
-          "explanation": "make O C（happy）＝第5文型 SVOC。"
+          "answer": ""
         },
         {
           "id": "a2-4",
           "question": "After his death the man left his dearest daughter a large fortune.",
-          "answer": "その男は亡くなったあと、最愛の娘に多額の財産を残した。",
-          "explanation": "leave O₁ O₂＝O₁にO₂を残す（第4文型 SVOO）。"
+          "answer": ""
         },
         {
           "id": "a2-5",
           "question": "She felt her heart beat hard when she saw her boyfriend talk intimately with her best friend.",
-          "answer": "恋人が親友と親しげに話しているのを見たとき、彼女は心臓が激しく高鳴るのを感じた。",
-          "explanation": "知覚動詞 feel O 原形（beat）／see O 原形（talk）＝Oが〜するのを感じる・見る。"
+          "answer": ""
         },
         {
           "id": "a2-6",
           "question": "Finding positive ways to communicate with the other person makes the relationship better.",
-          "answer": "相手とコミュニケーションをとる前向きな方法を見つけることは、その関係をよりよくする。",
-          "explanation": "動名詞句 Finding… が主語。make O C（better）。"
+          "answer": ""
         },
         {
           "id": "a2-7",
           "question": "I found the traffic still.",
-          "answer": "私は、交通が止まっている（車の動きがない）ことに気づいた。",
-          "explanation": "find O C＝OがCだと分かる。still は形容詞「静止した」。"
+          "answer": ""
         },
         {
           "id": "a2-8",
           "question": "Human beings are endowed with the ability to speak.",
-          "answer": "人間は、話す能力を生まれながらに授けられている。",
-          "explanation": "be endowed with＝〜を授かっている・備えている。"
+          "answer": ""
         }
       ]
     },
@@ -489,50 +417,42 @@
         {
           "id": "a3-1",
           "question": "The advance of medical science has prolonged life greatly. But the scientists have not told us what we should do to relieve us of the burdens of old age.",
-          "answer": "医学の進歩は寿命を大きく延ばしてきた。しかし科学者たちは、老いの重荷から私たちを解放するために何をすべきかを、教えてはくれていない。",
-          "explanation": "relieve A of B＝AからB（負担など）を取り除く。prolong＝延ばす。"
+          "answer": ""
         },
         {
           "id": "a3-2",
           "question": "The earthquake deprived a lot of people of their normal life.",
-          "answer": "その地震は、多くの人々から普通の生活を奪った。",
-          "explanation": "deprive A of B＝AからBを奪う。"
+          "answer": ""
         },
         {
           "id": "a3-3",
           "question": "I hurried home to prevent the Gas Company from turning off my utilities.",
-          "answer": "ガス会社に（ガスなどの）供給を止められないように、私は急いで帰宅した。",
-          "explanation": "prevent A from doing＝Aが〜するのを妨げる。utilities＝電気・ガス・水道などの供給。"
+          "answer": ""
         },
         {
           "id": "a3-4",
           "question": "The widow denied herself all pleasures to send her son to college.",
-          "answer": "その未亡人は、息子を大学にやるために、あらゆる楽しみを自分に禁じた。",
-          "explanation": "deny oneself A＝Aを自分に許さない・我慢する。widow＝未亡人。"
+          "answer": ""
         },
         {
           "id": "a3-5",
           "question": "Her lack of money prevented her from traveling abroad.",
-          "answer": "お金の不足が、彼女が海外旅行するのを妨げた（＝お金がなくて海外旅行できなかった）。",
-          "explanation": "prevent A from doing。無生物主語は「〜のせいで」と訳すと自然。"
+          "answer": ""
         },
         {
           "id": "a3-6",
           "question": "To the zoo I wanted to visit, my father took me last week.",
-          "answer": "私が訪れたかったその動物園に、父は先週、私を連れて行ってくれた。",
-          "explanation": "副詞句 To the zoo… を文頭に出した強調的な語順。take 人 to 場所。"
+          "answer": ""
         },
         {
           "id": "a3-7",
           "question": "We share with other mammals a core brain which ensures survival.",
-          "answer": "私たちは、生存を保証する中核的な脳を、他の哺乳類と共有している。",
-          "explanation": "share A with B の A が長いため share with B A の語順。which…は a core brain を修飾。"
+          "answer": ""
         },
         {
           "id": "a3-8",
           "question": "According to the recent survey, a lot of parents blame school for their children's mistakes.",
-          "answer": "最近の調査によると、多くの親が、子どもの過ちを学校のせいにしている。",
-          "explanation": "blame A for B＝BのことでAを責める・Aのせいにする。according to＝〜によると。"
+          "answer": ""
         }
       ]
     },
@@ -543,8 +463,7 @@
         {
           "id": "a4-1",
           "question": "Becoming aware of a set of attitudes and strategies sometimes referred to as critical thinking can help make your college experience more profitable.",
-          "answer": "クリティカル・シンキング（批判的思考）と呼ばれることもある一連の態度や方略を意識するようになることは、大学での経験をより有益なものにする助けとなりうる。",
-          "explanation": "動名詞句 Becoming… が主語（動詞は can help）。referred to as＝〜と呼ばれる。help (to) make。"
+          "answer": ""
         }
       ]
     },
@@ -555,44 +474,37 @@
         {
           "id": "a5-1",
           "question": "Taking too much water from under the ground may injure the earth.",
-          "answer": "地下から水をくみ上げすぎることは、大地を傷つけるかもしれない。",
-          "explanation": "動名詞句 Taking… が主語。injure＝傷つける。"
+          "answer": ""
         },
         {
           "id": "a5-2",
           "question": "For the young to be kind to the old is a matter of course.",
-          "answer": "若者が年配者に親切にするのは、当然のことだ。",
-          "explanation": "For A to do＝意味上の主語つき不定詞（Aが〜すること）。the young＝若者、the old＝老人。a matter of course＝当然のこと。"
+          "answer": ""
         },
         {
           "id": "a5-3",
           "question": "One of the best ways to keep your brain sharp when you get older may be to stay busy.",
-          "answer": "年をとったときに頭脳を鋭敏に保つ最良の方法の一つは、忙しくしていることかもしれない。",
-          "explanation": "keep O C（sharp）。be動詞の補語が不定詞 to stay busy。"
+          "answer": ""
         },
         {
           "id": "a5-4",
           "question": "The professor suggested me studying abroad.",
-          "answer": "その教授は、私に留学することを勧めた。",
-          "explanation": "suggest＋動名詞（studying）。※厳密には suggested (that) I (should) study が正式。"
+          "answer": ""
         },
         {
           "id": "a5-5",
           "question": "To hold a World Cup of Football Game would require the construction of a main stadium having the capacity of 80,000.",
-          "answer": "サッカーのワールドカップを開催するには、8万人を収容できるメインスタジアムの建設が必要になるだろう。",
-          "explanation": "不定詞 To hold… が主語。having…は stadium を修飾する分詞。capacity＝収容力。"
+          "answer": ""
         },
         {
           "id": "a5-6",
           "question": "The fog made it impossible for them to find the way out of the woods.",
-          "answer": "その霧のせいで、彼らは森から出る道を見つけることができなくなった。",
-          "explanation": "make it C for A to do＝形式目的語 it（真の目的語は to find…）。"
+          "answer": ""
         },
         {
           "id": "a5-7",
           "question": "Enlightenment philosophers denied the possibilities of miracles and believed that truth was to be found through scientific study of the laws of nature.",
-          "answer": "啓蒙思想の哲学者たちは奇跡の可能性を否定し、真理は自然の法則の科学的研究を通じて見いだされるべきものだと信じていた。",
-          "explanation": "be to be found＝「be to 不定詞」＋受動態（見いだされるべきだ）。Enlightenment＝啓蒙（思想）。"
+          "answer": ""
         }
       ]
     },
@@ -603,50 +515,42 @@
         {
           "id": "a6-1",
           "question": "Everyone who matters speaks English.",
-          "answer": "重要な人は皆、英語を話す。",
-          "explanation": "who matters＝主格の関係代名詞節（Everyone を修飾）。matter＝重要である。動詞は speaks。"
+          "answer": ""
         },
         {
           "id": "a6-2",
           "question": "A desert is a hot, barren region that receives little rainfall.",
-          "answer": "砂漠とは、雨がほとんど降らない、暑く不毛な地域である。",
-          "explanation": "that＝主格の関係代名詞（region を修飾）。barren＝不毛の。little＋不可算＝ほとんどない。"
+          "answer": ""
         },
         {
           "id": "a6-3",
           "question": "Most of the sounds we hear travel through the air.",
-          "answer": "私たちが聞く音のほとんどは、空気を通って伝わる。",
-          "explanation": "the sounds (that) we hear＝目的格の関係代名詞の省略。動詞は travel（伝わる）。"
+          "answer": ""
         },
         {
           "id": "a6-4",
           "question": "The capacity to endure a more or less monotonous life is one which should be acquired in childhood.",
-          "answer": "多かれ少なかれ単調な生活に耐える能力は、子ども時代に身につけておくべきものである。",
-          "explanation": "one＝capacity の代用。which＝主格の関係代名詞。more or less＝多かれ少なかれ。"
+          "answer": ""
         },
         {
           "id": "a6-5",
           "question": "I will never forget the days I spent with you.",
-          "answer": "私は、あなたと過ごした日々を決して忘れないだろう。",
-          "explanation": "the days (that) I spent＝目的格の関係代名詞の省略。"
+          "answer": ""
         },
         {
           "id": "a6-6",
           "question": "Those whose weight remains stable are healthier than those who gain and lose weight repeatedly.",
-          "answer": "体重が安定している人は、繰り返し体重が増えたり減ったりする人よりも健康である。",
-          "explanation": "whose＝所有格の関係代名詞。those who ～＝〜する人々。"
+          "answer": ""
         },
         {
           "id": "a6-7",
           "question": "Language is the means by which people can communicate with other people.",
-          "answer": "言語とは、人々が他の人々と意思疎通できる手段である。",
-          "explanation": "by which＝前置詞＋関係代名詞（communicate by the means より）。means＝手段。"
+          "answer": ""
         },
         {
           "id": "a6-8",
           "question": "Grandmothers were able to search for roots and vegetables which they could give to their daughters when they were having babies, creating a well-nourished, thriving third generation.",
-          "answer": "祖母たちは、娘が出産するときに与えられる根菜や野菜を探すことができ、その結果、栄養の行き届いた繁栄する第三世代を生み出した。",
-          "explanation": "which＝目的格の関係代名詞。creating…＝結果を表す分詞構文。well-nourished＝栄養の行き届いた。"
+          "answer": ""
         }
       ]
     },
@@ -657,50 +561,42 @@
         {
           "id": "a7-1",
           "question": "Not wanting to waste money on expensive dishes, she was at a loss as to what to order at the restaurant.",
-          "answer": "高価な料理にお金を使いたくなかったので、彼女はそのレストランで何を注文すべきか途方に暮れた。",
-          "explanation": "否定の分詞構文（Not doing）。at a loss＝途方に暮れて。as to＝〜について。"
+          "answer": ""
         },
         {
           "id": "a7-2",
           "question": "He is afraid to speak for fear of making errors.",
-          "answer": "彼は、間違いをすることを恐れて、話すのを怖がっている。",
-          "explanation": "for fear of doing＝〜することを恐れて。be afraid to do＝怖くて〜できない。"
+          "answer": ""
         },
         {
           "id": "a7-3",
           "question": "Her work done, Aunt Flora sat down for a cup of tea.",
-          "answer": "仕事が終わって、フローラおばさんはお茶を一杯飲もうと腰を下ろした。",
-          "explanation": "独立分詞構文：Her work (being) done＝仕事が終わった状態で。主節の主語と異なる主語を持つ。"
+          "answer": ""
         },
         {
           "id": "a7-4",
           "question": "I can't settle down to my studies with so many cars running in front of my house.",
-          "answer": "家の前でとても多くの車が走っているので、私は勉強に落ち着いて取り組めない。",
-          "explanation": "with O doing＝付帯状況（Oが〜している状態で）。settle down to＝〜に落ち着いて取り組む。"
+          "answer": ""
         },
         {
           "id": "a7-5",
           "question": "To earn her allowance, Betty made herself useful around the house.",
-          "answer": "小遣いを稼ぐために、ベティは家の中で自分が役に立つようにした。",
-          "explanation": "目的を表す不定詞。make oneself useful＝役に立つようにする。allowance＝小遣い。"
+          "answer": ""
         },
         {
           "id": "a7-6",
           "question": "To understand the situation of the hungry, we need to realize that for one reason or another, they simply lack access to world food markets.",
-          "answer": "飢えた人々の状況を理解するためには、何らかの理由で彼らは単に世界の食料市場に手が届かないだけなのだ、ということを認識する必要がある。",
-          "explanation": "the hungry＝飢えた人々（the＋形容詞）。for one reason or another＝何らかの理由で。lack＝〜を欠く。"
+          "answer": ""
         },
         {
           "id": "a7-7",
           "question": "They stepped aside in order for me to enter the room.",
-          "answer": "私が部屋に入れるように、彼らは脇へよけた。",
-          "explanation": "in order for A to do＝Aが〜できるように。step aside＝脇へよける。"
+          "answer": ""
         },
         {
           "id": "a7-8",
           "question": "This monkey, trained properly, will be able to do a lot of tricks.",
-          "answer": "この猿は、適切に訓練されれば、たくさんの芸ができるようになるだろう。",
-          "explanation": "trained properly＝分詞構文（条件「訓練されれば」）。trick＝芸。"
+          "answer": ""
         }
       ]
     },
@@ -711,20 +607,17 @@
         {
           "id": "a8-1",
           "question": "Father waxed his car so that the exterior shone like a mirror.",
-          "answer": "父は、車の外装が鏡のように輝くように、ワックスをかけた。",
-          "explanation": "so that S V＝〜するように／その結果〜。exterior＝外装。"
+          "answer": ""
         },
         {
           "id": "a8-2",
           "question": "Once you have a huge house, you have to make sure you have a big job to pay the loan.",
-          "answer": "いったん大きな家を持てば、ローンを払うために立派な仕事に就いていることを確実にしなければならない。",
-          "explanation": "once＝いったん〜すると。make sure (that)＝〜を確実にする。"
+          "answer": ""
         },
         {
           "id": "a8-3",
           "question": "Enormous as the hospital was, it was not large enough for all the victims in the disaster.",
-          "answer": "その病院は非常に大きかったが、その災害のすべての犠牲者を収容できるほど大きくはなかった。",
-          "explanation": "形容詞＋as＋S＋V＝譲歩（〜だけれども）。enough for＝〜にとって十分な。"
+          "answer": ""
         }
       ]
     },
@@ -735,32 +628,27 @@
         {
           "id": "a9-1",
           "question": "Since metal fatigue is now known to be a cause of air accident, airline technicians examine bodywork of airplane to detect the sign of weakness.",
-          "answer": "金属疲労が今では航空事故の一因であると知られているので、航空技術者は、弱化の兆候を見つけるために飛行機の機体を調べる。",
-          "explanation": "since＝〜なので（理由）。be known to be＝〜であると知られている。metal fatigue＝金属疲労。"
+          "answer": ""
         },
         {
           "id": "a9-2",
           "question": "Although treatments have improved, osteoporosis is still one of the biggest risks to the long term health of women, particularly after menopause.",
-          "answer": "治療法は進歩したものの、骨粗鬆症（こつそしょうしょう）は、特に閉経後の女性の長期的な健康にとって、依然として最大の危険の一つである。",
-          "explanation": "although＝〜だけれども（譲歩）。osteoporosis＝骨粗鬆症。menopause＝閉経。"
+          "answer": ""
         },
         {
           "id": "a9-3",
           "question": "While many of the boys said they enjoyed the use of the computer itself, the girls tended to value the computer for how it could help them do something.",
-          "answer": "多くの男子がコンピューターを使うこと自体を楽しんでいると言った一方で、女子は、コンピューターが何かをする手助けをどれだけしてくれるかという点でコンピューターを評価する傾向があった。",
-          "explanation": "while＝〜する一方で（対比）。value A for B＝BのことでAを評価する。"
+          "answer": ""
         },
         {
           "id": "a9-4",
           "question": "The man looked so tired that he didn't even notice my presence.",
-          "answer": "その男はとても疲れているように見えたので、私がいることにさえ気づかなかった。",
-          "explanation": "so … that ～＝とても…なので～。presence＝存在・居ること。"
+          "answer": ""
         },
         {
           "id": "a9-5",
           "question": "He did not come to the hospital because he was sick. He came to visit his mother.",
-          "answer": "彼は病気だから病院に来たのではない。母を見舞うために来たのだ。",
-          "explanation": "not … because ～ の否定の作用域に注意（「〜だからではない」）。"
+          "answer": ""
         }
       ]
     },
@@ -768,182 +656,987 @@
       "id": "eng-add10",
       "title": "追加10 — 分詞構文（動詞を適切な形にする）",
       "cards": [
-        { "id": "b10-1", "question": "My name ( be ) at the top of the list, I was called in first.", "answer": "being（My name being at the top of the list）", "explanation": "主節と主語が異なる独立分詞構文。being は省略も可。" },
-        { "id": "b10-2", "question": "The weather was bad this year, ( result ) in the poor harvest.", "answer": "resulting", "explanation": "「その結果〜」という結果を表す分詞構文。" },
-        { "id": "b10-3", "question": "( use ) cell phones, we can communicate with others easily.", "answer": "Using", "explanation": "能動の分詞構文（使えば）。" },
-        { "id": "b10-4", "question": "( sing ) a song, we enjoyed ourselves at the party.", "answer": "Singing", "explanation": "付帯状況の分詞構文（歌いながら）。" },
-        { "id": "b10-5", "question": "( bore ) at the speech, most audience left the auditorium.", "answer": "Bored", "explanation": "受動（退屈させられて）。感情動詞は過去分詞。" },
-        { "id": "b10-6", "question": "( injure ) in his leg, Helen could hardly walk.", "answer": "Injured", "explanation": "受動の分詞構文（けがをして）。" },
-        { "id": "b10-7", "question": "All things ( consider ), he is a fairly good husband.", "answer": "considered", "explanation": "All things considered＝あらゆることを考慮すると（独立分詞構文の慣用）。" },
-        { "id": "b10-8", "question": "This theater will be rebuilt next year, ( replace ) the original structure built in the 1950s.", "answer": "replacing", "explanation": "結果・付帯を表す分詞構文（〜に取って代わって）。" },
-        { "id": "b10-9", "question": "( be ) poor, she could not afford to buy a car.", "answer": "Being（Poor でも可）", "explanation": "理由の分詞構文（貧しかったので）。" },
-        { "id": "b10-10", "question": "Such ( be ) the case, he is unable to pay.", "answer": "being", "explanation": "Such being the case＝そういう事情なので（慣用）。" },
-        { "id": "b10-11", "question": "( Drive ) in the country, I often come up with a good idea.", "answer": "Driving", "explanation": "〜しているときの分詞構文。" },
-        { "id": "b10-12", "question": "( Write ) in easy English, this book is good for beginners.", "answer": "Written", "explanation": "受動（書かれているので）。本は「書かれる」側。" },
-        { "id": "b10-13", "question": "( Have ) done the job, you can do anything now.", "answer": "Having", "explanation": "Having done＝完了分詞構文（すでに〜し終えたので）。" },
-        { "id": "b10-14", "question": "( Not know ) what to do, the boy felt like crying.", "answer": "Not knowing", "explanation": "分詞構文の否定は not を分詞の前に置く。" },
-        { "id": "b10-15", "question": "Romeo, ( believe ) Juliet was dead, decided to kill himself.", "answer": "believing", "explanation": "主語 Romeo に対する能動の分詞構文（挿入）。" },
-        { "id": "b10-16", "question": "( Be ) tired, he went to bed earlier than usual.", "answer": "Being（Tired でも可）", "explanation": "理由の分詞構文（疲れていたので）。" },
-        { "id": "b10-17", "question": "( Walk ) all the way to the station, I felt exhausted.", "answer": "Walking", "explanation": "〜したので／しながらの分詞構文。" },
-        { "id": "b10-18", "question": "( Take ) when you have severe headache, this medicine will be effective.", "answer": "Taken", "explanation": "受動（薬は「飲まれる」側）。" },
-        { "id": "b10-19", "question": "( Go ) down this street, you will find the post office.", "answer": "Going", "explanation": "条件・付帯（この通りを行けば）。" },
-        { "id": "b10-20", "question": "( Unable ) to control herself, she burst into tears.", "answer": "Unable", "explanation": "Being unable の Being が省略された形。" },
-        { "id": "b10-21", "question": "With the night ( come ) on, we started home.", "answer": "coming", "explanation": "with O ～ing＝付帯状況（夜が迫る中で）。" },
-        { "id": "b10-22", "question": "( See ) her, I felt like crying.", "answer": "Seeing", "explanation": "〜したとき／したので（能動）。" },
-        { "id": "b10-23", "question": "Harry was standing with his arms ( fold ).", "answer": "folded", "explanation": "with O done＝腕を組んで（受動の付帯状況）。" }
+        {
+          "id": "g10-1",
+          "question": "My name ( be ) at the top of the list, I was called in first.",
+          "answer": ""
+        },
+        {
+          "id": "g10-2",
+          "question": "The weather was bad this year, ( result ) in the poor harvest.",
+          "answer": ""
+        },
+        {
+          "id": "g10-3",
+          "question": "( use ) cell phones, we can communicate with others easily.",
+          "answer": ""
+        },
+        {
+          "id": "g10-4",
+          "question": "( sing ) a song, we enjoyed ourselves at the party.",
+          "answer": ""
+        },
+        {
+          "id": "g10-5",
+          "question": "( bore ) at the speech, most audience left the auditorium.",
+          "answer": ""
+        },
+        {
+          "id": "g10-6",
+          "question": "( injure ) in his leg, Helen could hardly walk.",
+          "answer": ""
+        },
+        {
+          "id": "g10-7",
+          "question": "All things ( consider ), he is a fairly good husband.",
+          "answer": ""
+        },
+        {
+          "id": "g10-8",
+          "question": "This theater will be rebuilt next year, ( replace ) the original structure built in the 1950s.",
+          "answer": ""
+        },
+        {
+          "id": "g10-9",
+          "question": "( be ) poor, she could not afford to buy a car.",
+          "answer": ""
+        },
+        {
+          "id": "g10-10",
+          "question": "Such ( be ) the case, he is unable to pay.",
+          "answer": ""
+        },
+        {
+          "id": "g10-11",
+          "question": "( Drive ) in the country, I often come up with a good idea.",
+          "answer": ""
+        },
+        {
+          "id": "g10-12",
+          "question": "( Write ) in easy English, this book is good for beginners.",
+          "answer": ""
+        },
+        {
+          "id": "g10-13",
+          "question": "( Have ) done the job, you can do anything now.",
+          "answer": ""
+        },
+        {
+          "id": "g10-14",
+          "question": "( Not know ) what to do, the boy felt like crying.",
+          "answer": ""
+        },
+        {
+          "id": "g10-15",
+          "question": "Romeo, ( believe ) Juliet was dead, decided to kill himself.",
+          "answer": ""
+        },
+        {
+          "id": "g10-16",
+          "question": "( Be ) tired, he went to bed earlier than usual (from a day's work yesterday).",
+          "answer": ""
+        },
+        {
+          "id": "g10-17",
+          "question": "( Walk ) all the way to the station, I felt exhausted.",
+          "answer": ""
+        },
+        {
+          "id": "g10-18",
+          "question": "( Take ) when you have severe headache, this medicine will be effective.",
+          "answer": ""
+        },
+        {
+          "id": "g10-19",
+          "question": "( Go ) down this street, you will find the post office.",
+          "answer": ""
+        },
+        {
+          "id": "g10-20",
+          "question": "( Unable ) to control herself, she burst into tears.",
+          "answer": ""
+        },
+        {
+          "id": "g10-21",
+          "question": "With the night ( come ) on, we started home.",
+          "answer": ""
+        },
+        {
+          "id": "g10-22",
+          "question": "I can't settle down to my studies with so many cars running in front of my house.",
+          "answer": ""
+        },
+        {
+          "id": "g10-23",
+          "question": "( See ) her, I felt like crying.",
+          "answer": ""
+        },
+        {
+          "id": "g10-24",
+          "question": "Harry was standing with his arms ( fold ).",
+          "answer": ""
+        },
+        {
+          "id": "g10-25",
+          "question": "Walk with your back straight.",
+          "answer": ""
+        }
       ]
     },
     {
       "id": "eng-add11",
       "title": "追加11 — 分詞構文（空所補充・選択）",
       "cards": [
-        { "id": "b11-1", "question": "Coming into the room, ( ). ① I found some flowers ② some flowers were found ③ there were some flowers found ④ some flowers on the table", "answer": "① I found some flowers", "explanation": "分詞の意味上の主語は主節の主語と一致。部屋に入ったのは「I」。" },
-        { "id": "b11-2", "question": "Deciding that it would be hopeless to carry out a search in the fog, ( ) their rescue party. ① the rescue party gave up ② was given up ③ decided to give up ④ hopeless to give up", "answer": "① the rescue party gave up", "explanation": "decide の主語＝the rescue party。主節の主語を一致させる。" },
-        { "id": "b11-3", "question": "( ) for a quick decision, the chairman called for a vote. ① Anxious ② He is anxious ③ His being anxious ④ With being anxious", "answer": "① Anxious", "explanation": "Being anxious for … の Being が省略された形。" },
-        { "id": "b11-4", "question": "( ) the fact that this box will last for at least three months, ... ① Considered ② Given ③ Providing ④ Thinking", "answer": "② Given", "explanation": "Given 〜＝〜を考慮すると（慣用の分詞）。" },
-        { "id": "b11-5", "question": "Rowing down the Arakawa River, ( ). ① dangerous rocks began to appear ② there were dangerous rocks to be seen ③ we saw dangerous rocks ④ dangerous rocks could be seen", "answer": "③ we saw dangerous rocks", "explanation": "row の主語＝we。ボートを漕ぐのは人。" },
-        { "id": "b11-6", "question": "A bad habit, ( ), cannot easily be got rid of. ① if forming ② every formed ③ on forming ④ once formed", "answer": "④ once formed", "explanation": "once (it is) formed＝いったん身についてしまうと（受動）。" },
-        { "id": "b11-7", "question": "( ) by the horrible sight, he collapsed on the spot. ① Shocking ② Being shocked ③ Having shocked ④ To be shocked", "answer": "② Being shocked", "explanation": "受動の分詞構文（衝撃を受けて）。" },
-        { "id": "b11-8", "question": "Strictly ( ), history does not repeat itself. ① speak ② speaking ③ spoken ④ to speak", "answer": "② speaking", "explanation": "strictly speaking＝厳密に言えば（慣用の分詞構文）。" },
-        { "id": "b11-9", "question": "( ) about the purpose of her visit by the immigration officer, she replied, \"Sightseeing.\" ① Asked ② Informed ③ Talking ④ Thinking", "answer": "① Asked", "explanation": "受動（尋ねられて）。ask O about 〜 の受動。" }
+        {
+          "id": "g11-1",
+          "question": "Coming into the room, ( ). — ① I found some flowers ② some flowers were found ③ there were some flowers found ④ some flowers on the table",
+          "answer": ""
+        },
+        {
+          "id": "g11-2",
+          "question": "Deciding that it would be hopeless to carry out a search in the fog, ( ) their rescue party. — ① the rescue party gave up ② was given up ③ decided to give up ④ hopeless to give up",
+          "answer": ""
+        },
+        {
+          "id": "g11-3",
+          "question": "( ) for a quick decision, the chairman called for a vote. — ① Anxious ② He is anxious ③ His being anxious ④ With being anxious",
+          "answer": ""
+        },
+        {
+          "id": "g11-4",
+          "question": "( ) the fact that this box will last for at least three months, ... — ① Considered ② Given ③ Providing ④ Thinking",
+          "answer": ""
+        },
+        {
+          "id": "g11-5",
+          "question": "Rowing down the Arakawa River, ( ). — ① dangerous rocks began to appear ② there were dangerous rocks to be seen ③ we saw dangerous rocks ④ dangerous rocks could be seen",
+          "answer": ""
+        },
+        {
+          "id": "g11-6",
+          "question": "Tom, ( ), could say nothing. — ① horrified at that ② horrifying at what ③ horrifying at that ④ horrified at what",
+          "answer": ""
+        },
+        {
+          "id": "g11-7",
+          "question": "A bad habit, ( ), cannot easily be got rid of. — ① if forming ② every formed ③ on forming ④ once formed",
+          "answer": ""
+        },
+        {
+          "id": "g11-8",
+          "question": "( ) by the horrible sight, he collapsed on the spot. — ① Shocking ② Being shocked ③ Having shocked ④ To be shocked",
+          "answer": ""
+        },
+        {
+          "id": "g11-9",
+          "question": "Strictly ( ), history does not repeat itself. — ① speak ② speaking ③ spoken ④ to speak",
+          "answer": ""
+        },
+        {
+          "id": "g11-10",
+          "question": "( ) about the purpose of her visit by the immigration officer, she replied, \"Sightseeing.\" — ① Asked ② Informed ③ Talking ④ Thinking",
+          "answer": ""
+        }
       ]
     },
     {
       "id": "eng-add12",
-      "title": "追加12 — 強調構文・It〜that / 慣用",
+      "title": "追加12 — 強調構文・It〜that",
       "cards": [
-        { "id": "b12-1", "question": "It was only after the incident that she realized the danger she was in.", "answer": "彼女が自分の置かれた危険に気づいたのは、その出来事の後になってからだった。", "explanation": "It is 〜 that … の強調構文（副詞句を強調）。" },
-        { "id": "b12-2", "question": "It ( ) a year before I began to understand their unusual customs. ① was ② by the time ③ a year ④ not until", "answer": "① was", "explanation": "It was 〜 before S V＝…するまで〜（時間）かかった。" },
-        { "id": "b12-3", "question": "It was ( ) the Ice Age that the saber-toothed tiger became extinct. （① It was while ② It was during ③ While there was ④ When there was）", "answer": "during（It was during the Ice Age that 〜）", "explanation": "強調構文。during＋名詞（期間）。" },
-        { "id": "b12-4", "question": "Though I am tired, I will go if ( necessary ).", "answer": "necessary", "explanation": "if (it is) necessary＝必要なら。〈S＋be〉の省略。" },
-        { "id": "b12-5", "question": "The view, ( once ) seen, can never be forgotten.", "answer": "once", "explanation": "once (it is) seen＝いったん見ると。〈S＋be〉の省略。" },
-        { "id": "b12-6", "question": "Intimacy is no excuse for rough manners, though the majority of us seem to think ( ). ① it is ② it does ③ they are ④ they do", "answer": "① it is", "explanation": "think (that) it is (an excuse)。it＝intimacy。" },
-        { "id": "b12-7", "question": "( ), deprived of oxygen, the brain dies. ① Never ② Not ③ Sometimes ④ Once", "answer": "④ Once", "explanation": "Once (it is) deprived of oxygen＝いったん酸素を奪われると。" },
-        { "id": "b12-8", "question": "Cold chicken is delicious ( ) with salad. ① when eaten with ② when eating with ③ with eating ④ with eaten", "answer": "① when eaten with", "explanation": "when (it is) eaten＝食べられるとき（受動）。" },
-        { "id": "b12-9", "question": "What is it ( ) he wants to do first of all? ① that ② what ③ when ④ why", "answer": "① that", "explanation": "疑問詞の強調構文 What is it that 〜?。" },
-        { "id": "b12-10", "question": "It was when the exam was close at hand that my brother started studying.", "answer": "兄が勉強を始めたのは、試験が間近に迫ったときだった。", "explanation": "強調構文（時を表す副詞節を強調）。close at hand＝間近に。" },
-        { "id": "b12-11", "question": "This is the very watch that I have been looking for.", "answer": "これはまさに私がずっと探していた腕時計だ。", "explanation": "the very＋名詞＝まさにその〜（強調）。" }
+        {
+          "id": "g12-1",
+          "question": "It was only after the incident that she realized the danger she was in.",
+          "answer": ""
+        },
+        {
+          "id": "g12-2",
+          "question": "It ( ) a year before I began to understand their unusual customs [that I had actually lived in the country]. — ① was ② by the time ③ a year ④ not until",
+          "answer": ""
+        },
+        {
+          "id": "g12-3",
+          "question": "It was ( ) the Ice Age that the saber-toothed tiger became extinct. — ① It was while ② It was during ③ While there was ④ When there was",
+          "answer": ""
+        },
+        {
+          "id": "g12-4",
+          "question": "Though I am tired, I will go if ( ).",
+          "answer": "necessary"
+        },
+        {
+          "id": "g12-5",
+          "question": "The view, ( ) seen, can never be forgotten.",
+          "answer": "once"
+        },
+        {
+          "id": "g12-6",
+          "question": "Intimacy is no excuse for rough manners, though the majority of us seem to think ( ). — ① it is ② it does ③ they are ④ they do",
+          "answer": ""
+        },
+        {
+          "id": "g12-7",
+          "question": "( ), deprived of oxygen, the brain dies. — ① Never ② Not ③ Sometimes ④ Once",
+          "answer": ""
+        },
+        {
+          "id": "g12-8",
+          "question": "Exercise, if ( ), will do you more harm than good. — ① too far ② carried ③ carrying ④ be carried",
+          "answer": ""
+        },
+        {
+          "id": "g12-9",
+          "question": "Cold chicken is delicious ( ) with salad. — ① when eaten with ② when eating with ③ with eating ④ with eaten",
+          "answer": ""
+        },
+        {
+          "id": "g12-10",
+          "question": "What is it ( ) he wants to do first of all? — ① that ② what ③ when ④ why",
+          "answer": ""
+        },
+        {
+          "id": "g12-11",
+          "question": "What was it that made Dick decide to be a doctor?",
+          "answer": ""
+        },
+        {
+          "id": "g12-12",
+          "question": "It was when the exam was close at hand that my brother started studying.",
+          "answer": ""
+        },
+        {
+          "id": "g12-13",
+          "question": "This is the very watch that I have been looking for.",
+          "answer": ""
+        }
       ]
     },
     {
       "id": "eng-add13",
-      "title": "追加13 — 倒置",
+      "title": "追加13 — 文の組み立て・not A but B",
       "cards": [
-        { "id": "b13-1", "question": "So numerous were the family's properties that they cannot name them all.", "answer": "その一家の財産はあまりに多かったので、彼らはそれらをすべて挙げることはできない。", "explanation": "So＋形容詞が文頭→倒置（were the properties）。so … that ～。" },
-        { "id": "b13-2", "question": "Little did he dream that he would never see his country again.", "answer": "二度と祖国を見ることはないだろうとは、彼は少しも思わなかった。", "explanation": "否定語 Little が文頭→倒置（did he dream）。" },
-        { "id": "b13-3", "question": "My mother was crazy about the Beatles, and so am I.", "answer": "母はビートルズに夢中だったが、私もそうだ。", "explanation": "so＋V＋S＝〜もまたそうだ。" },
-        { "id": "b13-4", "question": "I don't like reading this kind of material very much, and neither does Lucy.", "answer": "私はこの種の資料を読むのがあまり好きではないが、ルーシーも好きではない。", "explanation": "neither＋V＋S＝〜もまた…ない。" },
-        { "id": "b13-5", "question": "Seldom had I seen such a remarkable creature.", "answer": "私はそれほど見事な生き物をめったに見たことがなかった。", "explanation": "否定語 Seldom が文頭→倒置（had I seen）。" },
-        { "id": "b13-6", "question": "No sooner had she left the room than they started to gossip about her.", "answer": "彼女が部屋を出るやいなや、彼らは彼女のうわさをし始めた。", "explanation": "No sooner 〜 than …＝〜するやいなや…。文頭で倒置。" },
-        { "id": "b13-7", "question": "Into the water jumped the boy with a splash.", "answer": "水の中へ、その少年はバシャッと飛び込んだ。", "explanation": "方向の副詞句が文頭→倒置（jumped the boy）。" },
-        { "id": "b13-8", "question": "Among the audience were the Prime Minister and his wife.", "answer": "聴衆の中に、首相とその妻がいた。", "explanation": "場所の副詞句が文頭→倒置（were 〜）。" },
-        { "id": "b13-9", "question": "At the top of the hill stood the tiny chapel.", "answer": "丘の頂上に、小さな礼拝堂が建っていた。", "explanation": "場所の副詞句が文頭→倒置（stood the chapel）。" },
-        { "id": "b13-10", "question": "Happy are those who can do what they want to.", "answer": "したいことができる人は幸せだ。", "explanation": "補語 Happy が文頭→倒置（are those）。" }
+        {
+          "id": "g13-1",
+          "question": "My father ate spaghetti and rice for lunch.",
+          "answer": ""
+        },
+        {
+          "id": "g13-2",
+          "question": "You won't like the course, but you will like the teacher.",
+          "answer": ""
+        },
+        {
+          "id": "g13-3",
+          "question": "Ken went to the U.S. because he would like to watch the same game of NBA.",
+          "answer": ""
+        },
+        {
+          "id": "g13-4",
+          "question": "I realized that I had received your letter only yesterday.",
+          "answer": ""
+        },
+        {
+          "id": "g13-5",
+          "question": "He doesn't speak unless spoken to by someone.",
+          "answer": ""
+        },
+        {
+          "id": "g13-6",
+          "question": "You must not lose your health until you realize how precious it is.",
+          "answer": ""
+        },
+        {
+          "id": "g13-7",
+          "question": "I told him not to open the door, but he did.",
+          "answer": ""
+        },
+        {
+          "id": "g13-8",
+          "question": "It is a shame that John can't take Mary to the party.",
+          "answer": ""
+        },
+        {
+          "id": "g13-9",
+          "question": "He is far from kind.",
+          "answer": ""
+        },
+        {
+          "id": "g13-10",
+          "question": "Who in the world broke the window?",
+          "answer": ""
+        },
+        {
+          "id": "g13-11",
+          "question": "You must interview this candidate whether you want to or not.",
+          "answer": ""
+        },
+        {
+          "id": "g13-12",
+          "question": "It was yesterday that I first met this old man.",
+          "answer": ""
+        },
+        {
+          "id": "g13-13",
+          "question": "It is not love but money that she wanted from him.",
+          "answer": ""
+        },
+        {
+          "id": "g13-14",
+          "question": "It is not power but love that makes a man obey.",
+          "answer": ""
+        },
+        {
+          "id": "g13-15",
+          "question": "It was while we were staying in Paris that I got acquainted with him.",
+          "answer": ""
+        }
       ]
     },
     {
       "id": "eng-add14",
-      "title": "追加14 — 否定表現（部分否定・準否定）",
+      "title": "追加14 — 倒置・強調",
       "cards": [
-        { "id": "b14-1", "question": "Not all of the passengers were rescued.", "answer": "乗客の全員が救助されたわけではない。", "explanation": "not all＝部分否定（すべて〜とは限らない）。" },
-        { "id": "b14-2", "question": "He thinks of nothing but making money.", "answer": "彼は金もうけのことしか考えていない。", "explanation": "nothing but＝〜だけ、〜にすぎない。" },
-        { "id": "b14-3", "question": "His English is anything but correct.", "answer": "彼の英語は決して正確ではない。", "explanation": "anything but＝決して〜でない。" },
-        { "id": "b14-4", "question": "My dog does nothing but eat and sleep all day.", "answer": "私の犬は一日中、食べて寝てばかりいる。", "explanation": "do nothing but＋原形＝〜してばかりいる。" },
-        { "id": "b14-5", "question": "He never fails to get to school in time.", "answer": "彼は必ず時間どおりに学校に着く。", "explanation": "never fail to do＝必ず〜する。" },
-        { "id": "b14-6", "question": "They never meet each other without quarreling.", "answer": "彼らは会えば必ず口げんかをする。", "explanation": "never 〜 without …＝〜すれば必ず…する（二重否定）。" },
-        { "id": "b14-7", "question": "He is far from healthy.", "answer": "彼は決して健康ではない。", "explanation": "far from＝決して〜でない、〜どころではない。" },
-        { "id": "b14-8", "question": "Her beauty is beyond description.", "answer": "彼女の美しさは言葉では言い表せない。", "explanation": "beyond description＝言葉にできないほどの。" },
-        { "id": "b14-9", "question": "Today no country is free from foreign influence.", "answer": "今日、外国の影響を免れている国はない。", "explanation": "free from＝〜がない、〜を免れて。" },
-        { "id": "b14-10", "question": "It was not until the teacher told them the answer that the students understood the question.", "answer": "生徒たちがその問題を理解したのは、先生が答えを教えてくれて初めてだった。", "explanation": "not until 〜 の強調構文（〜して初めて…）。" }
+        {
+          "id": "g14-1",
+          "question": "He is suitable for that job.",
+          "answer": ""
+        },
+        {
+          "id": "g14-2",
+          "question": "For short stays, Canada does not require that we obtain visas to enter the country, and ( ). — ① Nobody ② was ③ were ④ did not",
+          "answer": ""
+        },
+        {
+          "id": "g14-3",
+          "question": "( ) the U.S., Canada doesn't, either. — ① the U.S. does ② neither the U.S. does ③ the U.S. doesn't, either ④ the U.S. doesn't",
+          "answer": ""
+        },
+        {
+          "id": "g14-4",
+          "question": "So numerous were the family's properties that they cannot name them all.",
+          "answer": ""
+        },
+        {
+          "id": "g14-5",
+          "question": "Little did he dream that he would never see his country again.",
+          "answer": ""
+        },
+        {
+          "id": "g14-6",
+          "question": "My mother was crazy about the Beatles, and so am I.",
+          "answer": ""
+        },
+        {
+          "id": "g14-7",
+          "question": "It was not until the teacher told them the answer that the students understood the question.",
+          "answer": ""
+        },
+        {
+          "id": "g14-8",
+          "question": "I don't like reading this kind of material very much, and neither does Lucy.",
+          "answer": ""
+        }
       ]
     },
     {
       "id": "eng-add15",
-      "title": "追加15 — 比較",
+      "title": "追加15 — 否定表現・部分否定",
       "cards": [
-        { "id": "b15-1", "question": "No dog is as lovely as mine.", "answer": "私の犬ほどかわいい犬はいない。", "explanation": "No 〜 as … as ＝最上級の意味。" },
-        { "id": "b15-2", "question": "This job is not as easy as it looks.", "answer": "この仕事は、見かけほど簡単ではない。", "explanation": "not as … as＝〜ほど…でない。" },
-        { "id": "b15-3", "question": "He is not so strong as he used to be.", "answer": "彼は以前ほど強くない。", "explanation": "used to be＝以前は〜だった。" },
-        { "id": "b15-4", "question": "We sometimes wonder whether they were as happy as we are now.", "answer": "私たちは時々、彼らが今の私たちと同じくらい幸せだったのだろうかと思う。", "explanation": "as … as の比較。" },
-        { "id": "b15-5", "question": "This problem is not so easy to solve as you think.", "answer": "この問題は、あなたが思うほど解くのが簡単ではない。", "explanation": "not so … as＝〜ほど…でない。" },
-        { "id": "b15-6", "question": "It is almost as disastrous to win a war as to lose one.", "answer": "戦争に勝つことは、負けるのとほとんど同じくらい悲惨だ。", "explanation": "as … as で二つの不定詞を比較。" },
-        { "id": "b15-7", "question": "A man's worth is to be estimated not so much by what he has ( as ) by what he is.", "answer": "as（not so much A as B）", "explanation": "not so much A as B＝AというよりむしろB。" },
-        { "id": "b15-8", "question": "He is as great a scientist as ever lived.", "answer": "彼は、これまでに存在した中でも最も偉大な科学者だ。", "explanation": "as 〜 as ever lived＝古今まれにみる〜。語順 as great a scientist に注意。" },
-        { "id": "b15-9", "question": "Hearing is just as important as speaking in English conversation.", "answer": "英会話では、聞くことは話すことと同じくらい重要だ。", "explanation": "just as … as＝ちょうど同じくらい…。" },
-        { "id": "b15-10", "question": "There were three times as many applicants as we expected.", "answer": "私たちが予想した3倍の応募者がいた。", "explanation": "倍数＋as many 〜 as＝…の何倍の〜。" },
-        { "id": "b15-11", "question": "He isn't as good a cook as his father.", "answer": "彼は父親ほど料理が上手ではない。", "explanation": "as good a cook as の語順（as＋形容詞＋a＋名詞）。" },
-        { "id": "b15-12", "question": "Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome while trying to succeed.", "answer": "成功は、人生で到達した地位によってよりも、成功しようとする過程で乗り越えた障害によって測られるべきだ。", "explanation": "not so much A as B。be to be measured＝測られるべき。" },
-        { "id": "b15-13", "question": "He has three times as many books as you.", "answer": "彼はあなたの3倍の本を持っている。", "explanation": "倍数表現。" },
-        { "id": "b15-14", "question": "Nothing is ( more important ) than health.", "answer": "more important（比較級で最上級の意味）", "explanation": "Nothing is 比較級 than 〜＝〜ほど…なものはない。" },
-        { "id": "b15-15", "question": "Of the two boys, he is the ( taller ).", "answer": "the taller", "explanation": "2者の比較は the＋比較級。" }
+        {
+          "id": "g15-1",
+          "question": "Not all of the passengers were rescued.",
+          "answer": ""
+        },
+        {
+          "id": "g15-2",
+          "question": "He thinks of nothing but making money.",
+          "answer": ""
+        },
+        {
+          "id": "g15-3",
+          "question": "His English is anything but correct.",
+          "answer": ""
+        },
+        {
+          "id": "g15-4",
+          "question": "My dog does nothing but eat and sleep all day.",
+          "answer": ""
+        },
+        {
+          "id": "g15-5",
+          "question": "He never fails to get to school in time.",
+          "answer": ""
+        },
+        {
+          "id": "g15-6",
+          "question": "They never meet each other without quarreling.",
+          "answer": ""
+        },
+        {
+          "id": "g15-7",
+          "question": "He is far from healthy.",
+          "answer": ""
+        },
+        {
+          "id": "g15-8",
+          "question": "Her beauty is beyond description.",
+          "answer": ""
+        },
+        {
+          "id": "g15-9",
+          "question": "Today no country is free from foreign influence.",
+          "answer": ""
+        },
+        {
+          "id": "g15-10",
+          "question": "Happy are those who can do what they want to.",
+          "answer": ""
+        },
+        {
+          "id": "g15-11",
+          "question": "Seldom had I seen such a remarkable creature.",
+          "answer": ""
+        },
+        {
+          "id": "g15-12",
+          "question": "No sooner had she left the room than they started to gossip about her.",
+          "answer": ""
+        },
+        {
+          "id": "g15-13",
+          "question": "Into the water jumped the boy with a splash.",
+          "answer": ""
+        },
+        {
+          "id": "g15-14",
+          "question": "Among the audience were the Prime Minister and his wife.",
+          "answer": ""
+        },
+        {
+          "id": "g15-15",
+          "question": "At the top of the hill stood the tiny chapel.",
+          "answer": ""
+        },
+        {
+          "id": "g15-16",
+          "question": "I didn't know how serious the situation was until I went there to see it.",
+          "answer": ""
+        },
+        {
+          "id": "g15-17",
+          "question": "( ) of the rabbits survived. — ① Any ② None",
+          "answer": ""
+        },
+        {
+          "id": "g15-18",
+          "question": "They never fail to see me.",
+          "answer": ""
+        },
+        {
+          "id": "g15-19",
+          "question": "I don't want my parents to come.",
+          "answer": ""
+        },
+        {
+          "id": "g15-20",
+          "question": "Everyone seemed satisfied, but none dared to object.",
+          "answer": ""
+        }
       ]
     },
     {
       "id": "eng-add16",
-      "title": "追加16 — 名詞・代名詞（空所補充）",
+      "title": "追加16 — 比較①",
       "cards": [
-        { "id": "b16-1", "question": "Let's take a taxi. ( ) is a long way to the railway station.", "answer": "It", "explanation": "距離を表す it。" },
-        { "id": "b16-2", "question": "Japan has ( ) oil and is therefore almost entirely dependent on imports.", "answer": "little", "explanation": "oil は不可算。little＝ほとんどない。" },
-        { "id": "b16-3", "question": "( ) you can do for my sick mother would be appreciated.", "answer": "Anything", "explanation": "肯定文で「何でも」。" },
-        { "id": "b16-4", "question": "I have left my umbrella behind on the bus, so I have to buy a new ( ).", "answer": "one", "explanation": "同種の不特定物を指す one（＝an umbrella）。" },
-        { "id": "b16-5", "question": "He is ( ) of a musician.", "answer": "something", "explanation": "something of a 〜＝ちょっとした〜。" },
-        { "id": "b16-6", "question": "( ) are fond of it, and ( ) not.", "answer": "Some / others", "explanation": "Some 〜, others …＝〜する人もいれば、…する人もいる。" },
-        { "id": "b16-7", "question": "I'm staying here for ( ) a few weeks.", "answer": "quite", "explanation": "quite a few＝かなり多くの。" },
-        { "id": "b16-8", "question": "( ) of the two stories ( ) interesting.", "answer": "Neither / is", "explanation": "neither は単数扱い（2つのうちどちらも〜ない）。" },
-        { "id": "b16-9", "question": "He gave me three ( ) ( ) ( ).", "answer": "pieces of advice", "explanation": "advice は不可算。数えるときは a piece of / pieces of。" },
-        { "id": "b16-10", "question": "Since I've just moved here, my house has ( ) furniture.", "answer": "little（no も可）", "explanation": "furniture は不可算。" },
-        { "id": "b16-11", "question": "In America, there is a good ( ) of giving presents on birthdays.", "answer": "custom", "explanation": "custom＝（社会的な）習慣。habit＝個人の癖。" },
-        { "id": "b16-12", "question": "He is in the ( ) of sitting up ( ) on the weekends.", "answer": "habit / late", "explanation": "be in the habit of doing＝〜する習慣がある。sit up late＝夜ふかしする。" },
-        { "id": "b16-13", "question": "Jane has ( ) ( ) ( ) a new boy in her class at school.", "answer": "made friends with", "explanation": "make friends with＝〜と友達になる（friends は複数形）。" },
-        { "id": "b16-14", "question": "My view was different from ( ) as to what should be done.", "answer": "his", "explanation": "所有代名詞 his（＝his view）。" },
-        { "id": "b16-15", "question": "Can you tell me the ( ) between rice grown in Japan and American ( )?", "answer": "difference / rice", "explanation": "the difference between A and B。rice は不可算（反復）。" }
+        {
+          "id": "g16-1",
+          "question": "No dog is as lovely as mine.",
+          "answer": ""
+        },
+        {
+          "id": "g16-2",
+          "question": "This job is not as easy as it looks.",
+          "answer": ""
+        },
+        {
+          "id": "g16-3",
+          "question": "He is not so strong as he used to be.",
+          "answer": ""
+        },
+        {
+          "id": "g16-4",
+          "question": "We sometimes wonder whether they were as happy as we are now.",
+          "answer": ""
+        },
+        {
+          "id": "g16-5",
+          "question": "This problem is not so easy to solve as you think.",
+          "answer": ""
+        },
+        {
+          "id": "g16-6",
+          "question": "It is almost as disastrous to win a war as to lose one.",
+          "answer": ""
+        },
+        {
+          "id": "g16-7",
+          "question": "Jean speaks German a little but ( ) you do. — ① not so better as ② not as well as ③ as quite as ④ much as large as",
+          "answer": "not so well as"
+        },
+        {
+          "id": "g16-8",
+          "question": "The population of London is about ( ) that of Tokyo. — ① as large as that of Tokyo ② two-third ③ two-thirds ④ second-threes",
+          "answer": "two-thirds"
+        },
+        {
+          "id": "g16-9",
+          "question": "I went up the stairs ( ) I could. — ① so quite as ② as quietly as ③ as quiet as ④ as quite as it looks",
+          "answer": "as quietly as"
+        },
+        {
+          "id": "g16-10",
+          "question": "My hometown is ( ) Kusatsu. — ① Kusatsu ② less larger than ③ not as large as ④ much as large as",
+          "answer": "not as large as"
+        },
+        {
+          "id": "g16-11",
+          "question": "The sumo wrestler looks ( ) than Mary. — ① three times heavier ② advice as much as ③ three times as heavy ④ rather",
+          "answer": "three times heavier"
+        },
+        {
+          "id": "g16-12",
+          "question": "I gave him ( ) I could. — ① as much advice as ② advice much as ③ as advice much as ④ three times as heavy",
+          "answer": "as much advice as"
+        },
+        {
+          "id": "g16-13",
+          "question": "A man's worth is to be estimated not so much by what he has ( ) by what he is.",
+          "answer": "as"
+        },
+        {
+          "id": "g16-14",
+          "question": "He is as great a scientist as ever lived.",
+          "answer": ""
+        }
       ]
     },
     {
       "id": "eng-add17",
-      "title": "追加17 — 数量詞・名詞（4択）",
+      "title": "追加17 — 数量詞・名詞",
       "cards": [
-        { "id": "b17-1", "question": "I've heard so ( ) news about the scandal that I'm sick of it. ① few ② little ③ many ④ much", "answer": "④ much", "explanation": "news は不可算→much。" },
-        { "id": "b17-2", "question": "He had to carry ( ) from his house to the station. ① much luggage ② so many luggage ③ three pieces of luggages ④ many luggage", "answer": "① much luggage", "explanation": "luggage は不可算（複数形にしない）。" },
-        { "id": "b17-3", "question": "In Africa today there are many people who do not have enough food, ( ), and shelter. ① cloth ② clothing ③ wear ④ coat", "answer": "② clothing", "explanation": "clothing＝衣類（不可算の総称）。" },
-        { "id": "b17-4", "question": "When the author of this computer virus is captured, ( ) are they will be young men. ① chances ② conditions ③ reasons ④ opportunities", "answer": "① chances", "explanation": "Chances are (that) 〜＝たぶん〜だろう。" },
-        { "id": "b17-5", "question": "If you hire a lawyer, you have to pay a ( ). ① money ② expense ③ fee ④ fare", "answer": "③ fee", "explanation": "fee＝（専門家への）報酬・料金。fare＝運賃。" },
-        { "id": "b17-6", "question": "Most department stores are crowded with ( ) on Sundays. ① guests ② clients ③ customers ④ passengers", "answer": "③ customers", "explanation": "店の客＝customers。" },
-        { "id": "b17-7", "question": "Snowdrifts have been known to cover ( ). ① three stories buildings ② three-story buildings ③ stories of three buildings ④ three of story buildings", "answer": "② three-story buildings", "explanation": "数詞-単数名詞をハイフンで結び形容詞化（three-story）。" },
-        { "id": "b17-8", "question": "( ) number of people attending the lecture was much larger than I had expected. ① A ② The ③ Any ④ Some", "answer": "② The", "explanation": "the number of＝〜の数（単数扱い）。a number of＝多くの。" },
-        { "id": "b17-9", "question": "Some trees grow better in the mountains than ( ). ① another ② one another ③ others ④ some other", "answer": "③ others", "explanation": "不特定の複数「他のもの」＝others。" },
-        { "id": "b17-10", "question": "I spent 30 minutes on my assignment, and I need ( ) 30 minutes to finish it. ① other ② more ③ most ④ another", "answer": "④ another", "explanation": "another＋複数（期間・数量のまとまり）＝もう〜。" },
-        { "id": "b17-11", "question": "A: Did you answer any of the five questions? B: Yes. I found ( ) of them difficult. ① neither ② every ③ either ④ none", "answer": "④ none", "explanation": "3つ以上で「どれも〜ない」＝none。" },
-        { "id": "b17-12", "question": "( ) of the four employees would make a good supervisor. ① Neither ② Either ③ Any ④ Both", "answer": "③ Any", "explanation": "3つ以上から「どれでも」＝any。" },
-        { "id": "b17-13", "question": "He was ( ) with fear. ① beside himself ② afraid ③ amazed ④ resigned", "answer": "① beside himself", "explanation": "beside oneself (with)＝我を忘れて。" },
-        { "id": "b17-14", "question": "They have two daughters. One is still single, and ( ) is abroad. ① other ② another ③ the other ④ the another", "answer": "③ the other", "explanation": "2つのうち、一方は one、残りは the other。" },
-        { "id": "b17-15", "question": "My father used to smoke during meals. I couldn't ( ). ① allow his bad habits ② allow his that bad habit ③ put up with that bad habit of him ④ stand that bad habit of his", "answer": "④ stand that bad habit of his", "explanation": "二重所有格は that bad habit of his（of him は不可）。stand＝我慢する。" }
+        {
+          "id": "g17-1",
+          "question": "Is there room for another person in the back seat of your car?",
+          "answer": ""
+        },
+        {
+          "id": "g17-2",
+          "question": "Our living conditions are quite different from those twenty years ago.",
+          "answer": ""
+        },
+        {
+          "id": "g17-3",
+          "question": "Students who often write learn more quickly than those who write infrequently.",
+          "answer": ""
+        },
+        {
+          "id": "g17-4",
+          "question": "I hope you will give my best regards to your family.",
+          "answer": ""
+        },
+        {
+          "id": "g17-5",
+          "question": "He had the nerve to propose marriage to me.",
+          "answer": ""
+        },
+        {
+          "id": "g17-6",
+          "question": "It is regrettable that only those who can make a fortune should be considered fortunate.",
+          "answer": ""
+        },
+        {
+          "id": "g17-7",
+          "question": "I found it difficult to make him change the plan.",
+          "answer": ""
+        },
+        {
+          "id": "g17-8",
+          "question": "He is changing his image to a fun-loving man.",
+          "answer": ""
+        },
+        {
+          "id": "g17-9",
+          "question": "This is nothing other than an attempted murder.",
+          "answer": ""
+        },
+        {
+          "id": "g17-10",
+          "question": "In general, few of us like our own voices when we hear them on a tape recorder.",
+          "answer": ""
+        },
+        {
+          "id": "g17-11",
+          "question": "I've heard so ( ) news about the scandal that I'm sick of it. — ① few ② little ③ many ④ much",
+          "answer": "④ much"
+        },
+        {
+          "id": "g17-12",
+          "question": "He had to carry ( ) from his house to the station. — ① much luggage ② so many luggage ③ three pieces of luggages ④ many luggage",
+          "answer": "① much luggage"
+        },
+        {
+          "id": "g17-13",
+          "question": "In Africa today there are many people who do not have enough food, ( ), and shelter. — ① cloth ② clothing ③ wear ④ coat",
+          "answer": "② clothing"
+        },
+        {
+          "id": "g17-14",
+          "question": "When the author or authors of this computer virus are captured, ( ) are they will be young men. — ① chances ② conditions ③ reasons ④ opportunities",
+          "answer": "① chances"
+        },
+        {
+          "id": "g17-15",
+          "question": "If you hire a lawyer, you have to pay a ( ). — ① money ② expense ③ fee ④ fare",
+          "answer": "③ fee"
+        },
+        {
+          "id": "g17-16",
+          "question": "Most department stores are crowded with ( ) on Sundays. — ① guests ② clients ③ customers ④ passengers",
+          "answer": "③ customers"
+        },
+        {
+          "id": "g17-17",
+          "question": "Snowdrifts have been known to cover ( ). — ① three stories buildings ② three-story buildings ③ stories of three buildings ④ three of story buildings",
+          "answer": "② three-story buildings"
+        },
+        {
+          "id": "g17-18",
+          "question": "( ) number of people attending the lecture was much larger than I had expected. — ① A ② The ③ Any ④ Some",
+          "answer": "② The"
+        },
+        {
+          "id": "g17-19",
+          "question": "Some trees grow better in the mountains than ( ). — ① another ② one another ③ others ④ some other",
+          "answer": "③ others"
+        },
+        {
+          "id": "g17-20",
+          "question": "I spent 30 minutes trying to finish my assignment, and I need ( ) 30 minutes to finish it. — ① other ② more ③ most ④ another",
+          "answer": "④ another"
+        },
+        {
+          "id": "g17-21",
+          "question": "A: Did you answer any of the five questions? B: Yes I did. I found ( ) of them difficult. — ① neither ② every ③ either ④ none",
+          "answer": "④ none"
+        },
+        {
+          "id": "g17-22",
+          "question": "( ) of the four employees would make a good supervisor. — ① Neither ② Either ③ Any ④ Both",
+          "answer": "③ Any"
+        },
+        {
+          "id": "g17-23",
+          "question": "My father used to smoke during meals. I couldn't ( ). — ① allow his bad habits ② allow his that bad habit ③ put up with that bad habit of him ④ stand that bad habit of his",
+          "answer": "③ put up with that bad habit of him"
+        },
+        {
+          "id": "g17-24",
+          "question": "He was ( ) with fear. — ① beside himself ② afraid ③ amazed ④ resigned",
+          "answer": "① beside himself"
+        },
+        {
+          "id": "g17-25",
+          "question": "They have two daughters. One is still single, and ( ) is abroad. — ① other ② another ③ the other ④ the another",
+          "answer": "③ the other"
+        }
       ]
     },
     {
       "id": "eng-add18",
-      "title": "追加18 — 関係詞（Lesson9）",
+      "title": "追加18 — 名詞・代名詞（空所補充）",
       "cards": [
-        { "id": "b18-1", "question": "In Scotland there is a mysterious dark lake, ( ) depth has never been measured. ① whose ② what ③ by which ④ that", "answer": "① whose", "explanation": "所有格の関係代名詞（the lake's depth → whose depth）。" },
-        { "id": "b18-2", "question": "Recycling is the process ( ) materials are given a second life. ① by which ② that ③ in that ④ which", "answer": "① by which", "explanation": "by the process（〜によって）→ by which。後ろが完全な文。" },
-        { "id": "b18-3", "question": "I will never forget the days ( ) I spent in Kobe. ① to which ② in which ③ when ④ which", "answer": "④ which", "explanation": "spent の目的語が欠けている→目的格 which（that も可）。" },
-        { "id": "b18-4", "question": "He is a man ( ) I supposed was incapable of such cruelty. ① whom ② who ③ whose ④ which", "answer": "② who", "explanation": "I supposed は挿入。was の主語が必要→主格 who。" },
-        { "id": "b18-5", "question": "On weekends, I usually go to a nearby park, ( ) a famous architect laid out in the Meiji era.", "answer": "which（that も可、非制限用法なら which）", "explanation": "laid out の目的語が欠ける→目的格の関係代名詞。" }
+        {
+          "id": "g18-1",
+          "question": "Let's take a taxi. ( ) is a long way to the railway station.",
+          "answer": "It"
+        },
+        {
+          "id": "g18-2",
+          "question": "Japan has ( ) oil and is therefore almost entirely dependent on imports.",
+          "answer": "little"
+        },
+        {
+          "id": "g18-3",
+          "question": "( ) you can do for my sick mother would be appreciated.",
+          "answer": "Anything"
+        },
+        {
+          "id": "g18-4",
+          "question": "I have left my umbrella behind on the bus, so I have to buy a new ( ).",
+          "answer": "one"
+        },
+        {
+          "id": "g18-5",
+          "question": "He is ( ) of a musician.",
+          "answer": "something"
+        },
+        {
+          "id": "g18-6",
+          "question": "( ) are fond of it, and ( ) not.",
+          "answer": "Some / others"
+        },
+        {
+          "id": "g18-7",
+          "question": "I'm staying here for ( ) a few weeks.",
+          "answer": "quite"
+        },
+        {
+          "id": "g18-8",
+          "question": "( ) of the two stories ( ) interesting.",
+          "answer": "Neither / is"
+        },
+        {
+          "id": "g18-9",
+          "question": "He gave me three ( ) ( ) ( ).",
+          "answer": "pieces / of / advice"
+        },
+        {
+          "id": "g18-10",
+          "question": "Since I've just moved here, my house has ( ) furniture.",
+          "answer": "little（no も可）"
+        },
+        {
+          "id": "g18-11",
+          "question": "In America, there is a good ( ) of giving presents on birthdays.",
+          "answer": "custom"
+        },
+        {
+          "id": "g18-12",
+          "question": "He is in the ( ) of sitting up ( ) on the weekends.",
+          "answer": "habit / late"
+        },
+        {
+          "id": "g18-13",
+          "question": "Jane has ( ) ( ) ( ) a new boy in her class at school.",
+          "answer": "made / friends / with"
+        },
+        {
+          "id": "g18-14",
+          "question": "My view was different from ( ) as to what should be done.",
+          "answer": "his"
+        },
+        {
+          "id": "g18-15",
+          "question": "Can you tell me the ( ) between rice grown in Japan and American ( )?",
+          "answer": "difference / rice"
+        }
       ]
     },
     {
       "id": "eng-add19",
       "title": "追加19 — 誤り指摘（名詞・数量）",
       "cards": [
-        { "id": "b19-1", "question": "【誤りを1つ】I ①have bought ②some ③furnitures ④for ⑤my newly-built house.", "answer": "③ furnitures → furniture", "explanation": "furniture は不可算。複数形にしない。" },
-        { "id": "b19-2", "question": "【誤りを1つ】You ①can get all the ②informations you need ③about this university, if you ④search across the home page.", "answer": "② informations → information", "explanation": "information は不可算。" },
-        { "id": "b19-3", "question": "【誤りを1つ】①I respect my English teacher ②more than any other person ③in the whole world because of ④the precious advices she gave to me.", "answer": "④ advices → advice", "explanation": "advice は不可算。" },
-        { "id": "b19-4", "question": "【誤りを1つ】①Enjoy your vacation! I ②hope you have ③a good weather.", "answer": "③ a good weather → good weather", "explanation": "weather は不可算。冠詞 a を付けない。" },
-        { "id": "b19-5", "question": "【誤りを1つ】I want to have ②various kinds of ③friend, so that I can broaden my outlook.", "answer": "③ friend → friends", "explanation": "various kinds of の後は複数形。" },
-        { "id": "b19-6", "question": "【誤りを1つ】The jails are ①so ②crowded that the police ③does not arrest people ④for minor offenses.", "answer": "③ does → do", "explanation": "the police は複数扱い。" },
-        { "id": "b19-7", "question": "【誤りを1つ】Statistics ①are the science which ②deals ③with the collection, classification, and analysis of ④numerical data.", "answer": "① are → is", "explanation": "「統計学」の意味の statistics は単数扱い。" },
-        { "id": "b19-8", "question": "【誤りを1つ】One of the ①reason why women live longer than men ②is their ability to make close friends.", "answer": "① reason → reasons", "explanation": "one of the ＋複数名詞。" },
-        { "id": "b19-9", "question": "【誤りを1つ】It is amazing how ②much computers have come down ③in price over the past few ④year.", "answer": "④ year → years", "explanation": "few＋複数名詞（years）。" }
+        {
+          "id": "g19-1",
+          "question": "I ①have bought ②some ③furnitures ④for ⑤my newly-built house.",
+          "answer": ""
+        },
+        {
+          "id": "g19-2",
+          "question": "You ①can get all the ②informations you need ③about this university, if you ④search across the home page of it.",
+          "answer": ""
+        },
+        {
+          "id": "g19-3",
+          "question": "Feminists believe that the family ①as we know ②it ③favors men, because women ④are expected to do ⑤much of the housework and childcare.",
+          "answer": ""
+        },
+        {
+          "id": "g19-4",
+          "question": "①I respect my English teacher ②more than any other person ③in the whole world because of ④the precious advices she gave to me.",
+          "answer": ""
+        },
+        {
+          "id": "g19-5",
+          "question": "①Enjoy your vacation! I ②hope you have ③a good weather.",
+          "answer": ""
+        },
+        {
+          "id": "g19-6",
+          "question": "During my time ①at university, I want to have ②various kinds of friend, so that I can ③broaden my outlook and learn from many ④different points of view.",
+          "answer": ""
+        },
+        {
+          "id": "g19-7",
+          "question": "The jails are ①so ②crowded that the police ③does not arrest people ④for minor offenses.",
+          "answer": ""
+        },
+        {
+          "id": "g19-8",
+          "question": "Statistics ①are the science which ②deals ③with the collection, ④classification, and analysis of ⑤numerical data.",
+          "answer": ""
+        },
+        {
+          "id": "g19-9",
+          "question": "One of the ①reason why women live longer than men ②is their ability to make close friends ③with whom they share their sorrows.",
+          "answer": ""
+        },
+        {
+          "id": "g19-10",
+          "question": "①It is amazing how ②much computers have come down ③in price over the past few ④year.",
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "id": "eng-add20",
+      "title": "追加20 — 比較②",
+      "cards": [
+        {
+          "id": "g20-1",
+          "question": "Hearing is just as important as speaking in English conversation.",
+          "answer": ""
+        },
+        {
+          "id": "g20-2",
+          "question": "There were three times as many applicants as we expected.",
+          "answer": ""
+        },
+        {
+          "id": "g20-3",
+          "question": "The job of a flight attendant is not as easy as it looks.",
+          "answer": ""
+        },
+        {
+          "id": "g20-4",
+          "question": "I am as tall as he was five years ago.",
+          "answer": ""
+        },
+        {
+          "id": "g20-5",
+          "question": "I am just as excited as I was when I drove a car for the first time.",
+          "answer": ""
+        },
+        {
+          "id": "g20-6",
+          "question": "He isn't as good a cook as his father.",
+          "answer": ""
+        },
+        {
+          "id": "g20-7",
+          "question": "Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome while trying to succeed.",
+          "answer": ""
+        },
+        {
+          "id": "g20-8",
+          "question": "Try as hard as possible.",
+          "answer": ""
+        },
+        {
+          "id": "g20-9",
+          "question": "He has three times as many books as you.",
+          "answer": ""
+        },
+        {
+          "id": "g20-10",
+          "question": "She isn't so young as she looks.",
+          "answer": ""
+        },
+        {
+          "id": "g20-11",
+          "question": "He is ( ) than health.",
+          "answer": "taller"
+        },
+        {
+          "id": "g20-12",
+          "question": "Nothing is ( ) than health.",
+          "answer": "more important"
+        },
+        {
+          "id": "g20-13",
+          "question": "Mt. Fuji is the ( ) mountain in Japan.",
+          "answer": "highest"
+        },
+        {
+          "id": "g20-14",
+          "question": "Teachers have as ( ) things to do as students.",
+          "answer": "many"
+        },
+        {
+          "id": "g20-15",
+          "question": "She came to the class ( ) than any other boy in this class.",
+          "answer": "later"
+        },
+        {
+          "id": "g20-16",
+          "question": "In December, there is ( ) rain than in June.",
+          "answer": "less"
+        },
+        {
+          "id": "g20-17",
+          "question": "It is ( ) to make something original than to copy what some did.",
+          "answer": "more interesting"
+        },
+        {
+          "id": "g20-18",
+          "question": "Of the two boys, he is the ( ).",
+          "answer": "the taller"
+        },
+        {
+          "id": "g20-19",
+          "question": "Her lazy husband does not, so ( ) as wash his own dishes.",
+          "answer": "much（even）"
+        },
+        {
+          "id": "g20-20",
+          "question": "Developing countries try to become ( ) wealthy ( ) advanced nations.",
+          "answer": "as / as"
+        },
+        {
+          "id": "g20-21",
+          "question": "I am not ( ) tall as he was five years ago.",
+          "answer": "as"
+        },
+        {
+          "id": "g20-22",
+          "question": "He isn't as good ( ) as his father.",
+          "answer": "a cook"
+        },
+        {
+          "id": "g20-23",
+          "question": "Success is to be measured not so much ( ) by the position that one has reached in life ( ) by the obstacles ( ) he has overcome while trying to succeed.",
+          "answer": "as / as / which"
+        }
+      ]
+    },
+    {
+      "id": "eng-add21",
+      "title": "追加21 — 関係詞（Lesson9）",
+      "cards": [
+        {
+          "id": "g21-1",
+          "question": "In Scotland there is a mysterious dark lake, ( ) depth has never been measured. — ① whose ② what ③ by which ④ that",
+          "answer": ""
+        },
+        {
+          "id": "g21-2",
+          "question": "Recycling is the process ( ) materials are given a second life. — ① by which ② that ③ in that ④ which",
+          "answer": ""
+        },
+        {
+          "id": "g21-3",
+          "question": "I will never forget the days ( ) I spent in Kobe. — ① to which ② in which ③ when ④ which",
+          "answer": ""
+        },
+        {
+          "id": "g21-4",
+          "question": "He is a man ( ) I supposed was incapable of such cruelty. — ① whom ② who ③ whose ④ which",
+          "answer": ""
+        },
+        {
+          "id": "g21-5",
+          "question": "On weekends, I usually go to a nearby park, ( ) a famous architect laid out in the Meiji era.",
+          "answer": ""
+        }
       ]
     }
   ]
